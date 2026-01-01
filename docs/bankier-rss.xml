@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 01 Jan 2026 09:49:00 +0100</lastBuildDate>
-    <item>
-      <title>Wall Street ponownie kończy dzień z niewielkimi spadkami</title>
-      <link>https://www.bankier.pl/wiadomosc/Wall-Street-ponownie-konczy-dzien-z-niewielkimi-spadkami-9062370.html</link>
-      <description>Wtorkowa sesja na Wall Street zakończyła się ponownie niewielkimi spadkami głównych indeksów. W centrum uwagi były rosnące akcje Meta Platforms, ale indeksy ciągnęły w dół inne firmy technologiczne oraz spółki finansowe.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wall-Street-ponownie-konczy-dzien-z-niewielkimi-spadkami-9062370.html</guid>
-      <pubDate>Tue, 30 Dec 2025 23:01:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Firmy tną etaty. Tysiące Polaków straciło pracę w 2025 roku</title>
-      <link>https://www.bankier.pl/wiadomosc/W-2025-roku-nie-brakowalo-zwolnien-Te-firmy-pozbyly-sie-najwiecej-pracownikow-9062206.html</link>
-      <description>W mijającym roku polski rynek pracy zmagał się z jedną z największych fal zwolnień grupowych ostatnich lat. Redukcje dotknęły zarówno duże korporacje, jak PKP Cargo, Poczta Polska czy Fujitsu, jak i mniejsze przedsiębiorstwa produkcyjne, a...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/W-2025-roku-nie-brakowalo-zwolnien-Te-firmy-pozbyly-sie-najwiecej-pracownikow-9062206.html</guid>
-      <pubDate>Wed, 31 Dec 2025 06:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Jan 2026 10:06:00 +0100</lastBuildDate>
     <item>
       <title>Co w nieruchomościach w 2026 roku? Najpierw stabilizacja cen, a później podwyżki</title>
       <link>https://www.bankier.pl/wiadomosc/Rynek-nieruchomosci-w-2026-roku-eksperci-mowia-co-z-cenami-mieszkan-dzialek-i-najmu-9062087.html</link>
@@ -708,6 +694,20 @@
       <description>Objęty sankcjami USA Serbski Przemysł Naftowy (NIS) otrzymał od Waszyngtonu licencję na kontynuowanie pracy do 23 stycznia - przekazała w środę minister energetyki Serbii Dubravka Djedović Handanović. NIS trafił na listę sankcyjną USA, ponieważ...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Koncern-NIS-bedzie-dzialal-mimo-sankcji-Specjalna-zgoda-od-USA-9062867.html</guid>
       <pubDate>Thu, 01 Jan 2026 09:49:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Putin w orędziu noworocznym wyraził wiarę w zwycięstwo w Ukrainie</title>
+      <link>https://www.bankier.pl/wiadomosc/Putin-w-oredziu-noworocznym-wyrazil-wiare-w-zwyciestwo-w-Ukrainie-9062852.html</link>
+      <description>Przywódca Rosji Władimir Putin oświadczył w środę w orędziu noworocznym, że kraj solidaryzuje się z żołnierzami stacjonującymi w Ukrainie i wierzy w zwycięstwo. Zapewnił, że Rosja będzie osiągać postawione cele.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Putin-w-oredziu-noworocznym-wyrazil-wiare-w-zwyciestwo-w-Ukrainie-9062852.html</guid>
+      <pubDate>Thu, 01 Jan 2026 09:54:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Wzrosła akcyza na wyroby alkoholowe i papierosy</title>
+      <link>https://www.bankier.pl/wiadomosc/Wzrosla-akcyza-na-wyroby-alkoholowe-i-papierosy-9062927.html</link>
+      <description>1 stycznia w górę idzie akcyza na wyroby alkoholowe, papierosy i wyroby tytoniowe oraz na e-papierosy. Jest to efekt ustaw uchwalonych m.in. w 2025 r.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wzrosla-akcyza-na-wyroby-alkoholowe-i-papierosy-9062927.html</guid>
+      <pubDate>Thu, 01 Jan 2026 10:06:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
