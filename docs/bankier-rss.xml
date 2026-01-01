@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 01 Jan 2026 18:24:00 +0100</lastBuildDate>
-    <item>
-      <title>Kobosko rezygnuje z udziału w wyborach na szefa Polski 2050</title>
-      <link>https://www.bankier.pl/wiadomosc/Kobosko-rezygnuje-z-udzialu-w-wyborach-na-szefa-Polski-2050-9062527.html</link>
-      <description>Polska 2050 musi zejść ze ścieżki wegetacji; by tak się stało, w wyborach na szefa partii należy opowiedzieć się za totalną zmianą - napisał Michał Kobosko w liście do działaczy partii. Europoseł, który zrezygnował ze startu w tych wyborach...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Kobosko-rezygnuje-z-udzialu-w-wyborach-na-szefa-Polski-2050-9062527.html</guid>
-      <pubDate>Wed, 31 Dec 2025 10:30:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Jan 2026 18:42:00 +0100</lastBuildDate>
     <item>
       <title>W Polsce ruszy pierwsza piaskownica regulacyjna. Znamy datę</title>
       <link>https://www.bankier.pl/wiadomosc/W-Polsce-ruszy-pierwsza-piaskownica-regulacyjna-Znamy-date-9062537.html</link>
@@ -708,6 +701,13 @@
       <description>Kilkadziesiąt osób zginęło, a około stu zostało rannych, przeważnie ciężko, w noc sylwestrową wskutek pożaru, który wybuchł w kurorcie narciarskim Crans-Montana w południowej Szwajcarii – poinformowała w czwartek policja.</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Tragedia-w-Sylwestra-Dziesiatki-ofiar-smiertelnych-w-Szwajcarii-9062994.html</guid>
       <pubDate>Thu, 01 Jan 2026 18:24:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ofiary śmiertelne i strzały na prowincji. Protesty w Iranie przybierają na sile</title>
+      <link>https://www.bankier.pl/wiadomosc/Ofiary-smiertelne-i-strzaly-na-prowincji-Protesty-w-Iranie-przybieraja-na-sile-9063062.html</link>
+      <description>Co najmniej trzy osoby zginęły czwartek w trakcie protestów w Iranie - poinformowała w piątek agencja AFP powołując się na lokalne media. Demonstracje rozprzestrzeniły się poza największe miasta - przekazała AP.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ofiary-smiertelne-i-strzaly-na-prowincji-Protesty-w-Iranie-przybieraja-na-sile-9063062.html</guid>
+      <pubDate>Thu, 01 Jan 2026 18:42:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
