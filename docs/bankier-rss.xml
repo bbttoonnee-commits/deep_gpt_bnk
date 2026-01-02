@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 02 Jan 2026 18:56:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 20:00:00 +0100</lastBuildDate>
     <item>
       <title>PE chce funduszu na aborcję. Wsparcie dla kobiet z krajów z zakazem</title>
       <link>https://www.bankier.pl/wiadomosc/PE-chce-funduszu-na-aborcje-Wsparcie-dla-kobiet-z-krajow-z-zakazem-9061842.html</link>
@@ -640,13 +640,6 @@
       <pubDate>Fri, 02 Jan 2026 17:05:00 +0100</pubDate>
     </item>
     <item>
-      <title>CSU chce deportacji większości syryjskich uchodźców. Powstanie specjalny terminal?</title>
-      <link>https://www.bankier.pl/wiadomosc/CSU-chce-deportacji-wiekszosci-syryjskich-uchodzcow-Powstanie-specjalny-terminal-9063411.html</link>
-      <description>Bawarskie CSU zamierza doprowadzić do deportacji z Niemiec większości syryjskich uchodźców - wynika z dokumentu partyjnego, z którym zapoznała się agencja dpa. Partia proponuje w tym celu budowę na lotnisku w Monachium „deportacyjnego terminalu”...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/CSU-chce-deportacji-wiekszosci-syryjskich-uchodzcow-Powstanie-specjalny-terminal-9063411.html</guid>
-      <pubDate>Fri, 02 Jan 2026 17:13:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Orlen najmocniejszy w WIG20 i znów powyżej 100 zł. WIG przebił 120 tys. pkt. pierwszy raz w historii</title>
       <link>https://www.bankier.pl/wiadomosc/Orlen-najmocniejszy-w-WIG20-i-znow-powyzej-100-zl-WIG-przebil-120-tys-pkt-pierwszy-raz-w-historii-9063415.html</link>
       <description>Po znakomitym 2025 r. na warszawskiej giełdzie, nowy rok zaczął się w wyśmienitych nastrojach, przynosząc kolejne rekordy na indeksach oraz zwyżki cen akcji liderów hossy. Pierwsza sesja 2026 r. wyniosła indeks szerokiego rynku WIG po raz pierwszy...</description>
@@ -694,6 +687,27 @@
       <description>Władze ukraińskie nakazały ewakuację ponad 3 tys. dzieci i ich rodziców z 44 przyfrontowych miejscowości obwodów zaporoskiego i dniepropietrowskiego - poinformował wicepremier Ołeksij Kułeba. W rosyjskim nalocie rakietowym na Charków w piątek...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ewakuacja-3000-dzieci-z-44-przyfrontowych-miejscowosci-Trudna-sytuacja-w-zakresie-bezpieczenstwa-9063441.html</guid>
       <pubDate>Fri, 02 Jan 2026 18:56:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>FBI udaremniło zamach. 18-latek planował "zrobić dżihad"</title>
+      <link>https://www.bankier.pl/wiadomosc/FBI-udaremnilo-zamach-18-latek-planowal-zrobic-dzihad-9063444.html</link>
+      <description>Federalne Biuro Śledcze (FBI) podało w piątek, że udaremniło zamach 18-letniego dżihadysty inspirowany ideologią Państwa Islamskiego. Mężczyzna planował zaatakować młotkami i nożami klientów supermarketu w Karolinie Północnej, lecz został...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/FBI-udaremnilo-zamach-18-latek-planowal-zrobic-dzihad-9063444.html</guid>
+      <pubDate>Fri, 02 Jan 2026 19:04:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Tesla traci koronę. Elon Musk pokonany przez chińskiego giganta BYD</title>
+      <link>https://www.bankier.pl/wiadomosc/Tesla-traci-korone-Elon-Musk-pokonany-przez-chinskiego-giganta-BYD-9063450.html</link>
+      <description>Należący do Elona Muska koncern Tesla zanotował w 2025 r. drugi z rzędu spadek w liczbie dostarczonych samochodów i stracił status globalnego lidera rynku na rzecz chińskiego BYD - wynika z kwartalnych wyników spółek. Tesla dostarczyła 1,64...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Tesla-traci-korone-Elon-Musk-pokonany-przez-chinskiego-giganta-BYD-9063450.html</guid>
+      <pubDate>Fri, 02 Jan 2026 19:40:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>CSU chce deportacji większości syryjskich uchodźców. Powstanie specjalny terminal?</title>
+      <link>https://www.bankier.pl/wiadomosc/CSU-chce-deportacji-wiekszosci-syryjskich-uchodzcow-Powstanie-specjalny-terminal-9063411.html</link>
+      <description>Bawarskie CSU zamierza doprowadzić do deportacji z Niemiec większości syryjskich uchodźców - wynika z dokumentu partyjnego, z którym zapoznała się agencja dpa. Partia proponuje w tym celu budowę na lotnisku w Monachium „deportacyjnego terminalu”...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/CSU-chce-deportacji-wiekszosci-syryjskich-uchodzcow-Powstanie-specjalny-terminal-9063411.html</guid>
+      <pubDate>Fri, 02 Jan 2026 20:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
