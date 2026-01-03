@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sat, 03 Jan 2026 18:14:00 +0100</lastBuildDate>
-    <item>
-      <title>Presja płacowa i droga energia. Ceny pójdą w górę średnio o 5-7 proc.</title>
-      <link>https://www.bankier.pl/wiadomosc/Presja-placowa-i-droga-energia-Ceny-pojda-w-gore-srednio-o-5-7-proc-9063184.html</link>
-      <description>60 proc. średnich i dużych firm w Polsce zapowiada podwyżki cen swoich towarów i usług w 2026 roku, to o 3 pkt. proc. więcej niż przed rokiem - wynika z badania Grant Thornton. Presję inflacyjną łagodzić będzie mrożenie cen energii oraz korzystniejszy...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Presja-placowa-i-droga-energia-Ceny-pojda-w-gore-srednio-o-5-7-proc-9063184.html</guid>
-      <pubDate>Fri, 02 Jan 2026 10:11:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Nowy rok i gorsze wieści z BNP Paribas. Kolejny bank tnie stawki na koncie oszczędnościowym</title>
-      <link>https://www.bankier.pl/wiadomosc/Gorsze-wiesci-z-BNP-Paribas-Kolejny-bank-tnie-stawki-na-koncie-oszczednosciowym-9063182.html</link>
-      <description>Środki zgromadzone na kontach oszczędnościowych w BNP Paribas Banku Polska są od nowego roku oprocentowane na nieco mniej korzystnych dla ich posiadaczy zasadach. Bank obniżył stawkę na swoich produktach o 0,50 pp. Zmiana dotyczy prawie wszystkich...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Gorsze-wiesci-z-BNP-Paribas-Kolejny-bank-tnie-stawki-na-koncie-oszczednosciowym-9063182.html</guid>
-      <pubDate>Fri, 02 Jan 2026 10:17:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Jan 2026 19:44:00 +0100</lastBuildDate>
     <item>
       <title>Trump zamraża stawki celne. USA łagodzą kurs wobec importowanych mebli</title>
       <link>https://www.bankier.pl/wiadomosc/Trump-zamraza-stawki-celne-USA-lagodza-kurs-wobec-importowanych-mebli-9063192.html</link>
@@ -654,6 +640,13 @@
       <pubDate>Sat, 03 Jan 2026 16:00:00 +0100</pubDate>
     </item>
     <item>
+      <title>Wiceprezydent Wenezueli uciekła do Rosji? Ławrow: To nieprawda</title>
+      <link>https://www.bankier.pl/wiadomosc/Wiceprezydent-Wenezueli-uciekla-do-Rosji-Lawrow-To-nieprawda-9063613.html</link>
+      <description>Zastępczyni pojmanego w sobotę przez USA przywódcy Wenezueli Nicolasa Maduro, wiceprezydent Delcy Rodriguez, przebywa w Rosji – poinformowała w w sobotę agencja Reutera, powołując się na cztery źródła. Informacji tej zaprzeczył szef rosyjskiego...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wiceprezydent-Wenezueli-uciekla-do-Rosji-Lawrow-To-nieprawda-9063613.html</guid>
+      <pubDate>Sat, 03 Jan 2026 16:04:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Maduro po latach obalony. "Prezydenturę powinien objąć Gonzalez Urrutia"</title>
       <link>https://www.bankier.pl/wiadomosc/Maduro-po-latach-obalony-Prezydenture-powinien-objac-Gonzalez-Urrutia-9063625.html</link>
       <description>Nadszedł czas wolności dla Wenezueli, prezydenturę powinien objąć zwycięzca ostatnich wyborów Edmundo Gonzalez Urrutia – napisała w sobotę przywódczyni wenezuelskiej opozycji Maria Corina Machado po schwytaniu rządzącego tym krajem Nicolasa...</description>
@@ -707,7 +700,14 @@
       <link>https://www.bankier.pl/wiadomosc/Trump-Bedziemy-rzadzic-Wenezuela-do-czasu-jej-bezpiecznej-transformacji-9063631.html</link>
       <description>Będziemy rządzić Wenezuelą do czasu przeprowadzenia bezpiecznej, porządnej i rozsądnej transformacji - ogłosił w sobotę prezydent USA Donald Trump podczas konferencji prasowej. Jak dodał, chce wolności dla Wenezuelczyków.</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Trump-Bedziemy-rzadzic-Wenezuela-do-czasu-jej-bezpiecznej-transformacji-9063631.html</guid>
-      <pubDate>Sat, 03 Jan 2026 18:14:00 +0100</pubDate>
+      <pubDate>Sat, 03 Jan 2026 18:41:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Trump: Prezydent Kolumbii musi uważać na tyłek</title>
+      <link>https://www.bankier.pl/wiadomosc/Trump-Prezydent-Kolumbii-musi-uwazac-na-tylek-9063644.html</link>
+      <description>Prezydent Kolumbii Gustavo Petro musi uważać na swój tyłek - powiedział prezydent USA Donald Trump w sobotę podczas konferencji prasowej na Florydzie. Trump oskarżył kolumbijskie władze o sprzyjanie przemytowi kokainy.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Trump-Prezydent-Kolumbii-musi-uwazac-na-tylek-9063644.html</guid>
+      <pubDate>Sat, 03 Jan 2026 19:44:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
