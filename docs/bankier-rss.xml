@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 04 Jan 2026 19:35:00 +0100</lastBuildDate>
-    <item>
-      <title>CSU chce deportacji większości syryjskich uchodźców. Powstanie specjalny terminal?</title>
-      <link>https://www.bankier.pl/wiadomosc/CSU-chce-deportacji-wiekszosci-syryjskich-uchodzcow-Powstanie-specjalny-terminal-9063411.html</link>
-      <description>Bawarskie CSU zamierza doprowadzić do deportacji z Niemiec większości syryjskich uchodźców - wynika z dokumentu partyjnego, z którym zapoznała się agencja dpa. Partia proponuje w tym celu budowę na lotnisku w Monachium „deportacyjnego terminalu”...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/CSU-chce-deportacji-wiekszosci-syryjskich-uchodzcow-Powstanie-specjalny-terminal-9063411.html</guid>
-      <pubDate>Fri, 02 Jan 2026 20:22:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jan 2026 20:05:00 +0100</lastBuildDate>
     <item>
       <title>W Wielkiej Brytanii tak ciepło jeszcze nie było. Najgorętszy rok od 140 lat</title>
       <link>https://www.bankier.pl/wiadomosc/W-Wielkiej-Brytanii-tak-cieplo-jeszcze-nie-bylo-Najgoretszy-rok-od-140-lat-9063469.html</link>
@@ -395,13 +388,6 @@
       <pubDate>Sun, 04 Jan 2026 06:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Płaca minimalna 2026: ile wyniesie minimalne wynagrodzenie i jak wpłynie na pracowników oraz firmy?</title>
-      <link>https://www.bankier.pl/wiadomosc/Placa-minimalna-2026-ile-wyniesie-minimalne-wynagrodzenie-i-jak-wplynie-na-pracownikow-oraz-firmy-9061261.html</link>
-      <description>Wysokość minimalnego wynagrodzenia co roku oddziałuje nie tylko na poziom płac najmniej zarabiających pracowników, lecz także na wiele innych świadczeń wynikających ze stosunku pracy. Rok 2026 przynosi kolejne zmiany, istotne zarówno dla pracowników...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Placa-minimalna-2026-ile-wyniesie-minimalne-wynagrodzenie-i-jak-wplynie-na-pracownikow-oraz-firmy-9061261.html</guid>
-      <pubDate>Sun, 04 Jan 2026 06:00:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Maduro oskarżony w USA ws. narkotyków i terroryzmu</title>
       <link>https://www.bankier.pl/wiadomosc/Maduro-oskarzony-w-USA-ws-narkotykow-i-terroryzmu-9063592.html</link>
       <description>Prokuratura federalna w Nowym Jorku opublikowała w sobotę nowe, uaktualnione zarzuty wobec obalonego przywódcy Wenezueli Nicolasa Maduro, jego żony Cilii Flores, syna i ministrów. USA oskarżają Maduro m.in. o uczestnictwo w „zmowie narkoterrorystycznej”...</description>
@@ -659,6 +645,20 @@
       <description>Prezydent USA Donald Trump podtrzymał w niedzielnym wywiadzie dla magazynu „The Atlantic” swoją chęć aneksji Grenlandii. Powtórzył, że USA „absolutnie potrzebują” Grenlandii.</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Trump-Absolutnie-potrzebujemy-Grenlandii-A-to-nie-koniec-skandalicznych-slow-9063779.html</guid>
       <pubDate>Sun, 04 Jan 2026 19:35:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Mniej niż 1 proc. terytorium za setki tysięcy ofiar. Bilans rosyjskiej ofensywy w 2025 r.</title>
+      <link>https://www.bankier.pl/wiadomosc/Mniej-niz-1-proc-terytorium-za-setki-tysiecy-ofiar-Bilans-rosyjskiej-ofensywy-w-2025-r-9062972.html</link>
+      <description>W ciągu ostatniego roku Rosjanie zdobyli mniej niż 1 proc. powierzchni Ukrainy, kosztem setek tysięcy ofiar, ale nie osiągnęli żadnego operacyjnego przełomu – powiedział PAP George Barros z amerykańskiego Instytutu Studiów nad Wojną. Jak...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Mniej-niz-1-proc-terytorium-za-setki-tysiecy-ofiar-Bilans-rosyjskiej-ofensywy-w-2025-r-9062972.html</guid>
+      <pubDate>Sun, 04 Jan 2026 20:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Vance na narkotykowej wojnie. "Kokaina jest źródłem zysków"</title>
+      <link>https://www.bankier.pl/wiadomosc/Vance-na-narkotykowej-wojnie-Kokaina-jest-zrodlem-zyskow-9063776.html</link>
+      <description>Kokaina jest źródłem zysków dla wszystkich karteli narkotykowych w Ameryce Łacińskiej, dlatego ich odcięcie znacznie osłabi kartele - oznajmił w niedzielę wiceprezydent J.D. Vance. Odniósł się w ten sposób do zarzutów, że USA wcale nie...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Vance-na-narkotykowej-wojnie-Kokaina-jest-zrodlem-zyskow-9063776.html</guid>
+      <pubDate>Sun, 04 Jan 2026 20:05:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
