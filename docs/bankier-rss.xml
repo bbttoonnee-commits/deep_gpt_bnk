@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 05 Jan 2026 19:48:00 +0100</lastBuildDate>
-    <item>
-      <title>Zasiłek pogrzebowy w górę z 4 do 7 tys. zł. Co trzeba wypełnić?</title>
-      <link>https://www.bankier.pl/wiadomosc/Zasilek-pogrzebowy-w-gore-z-4-do-7-tys-zl-Co-trzeba-wypelnic-9062946.html</link>
-      <description>Od 1 stycznia 2026 r. zasiłek pogrzebowy wzrósł z 4 do 7 tys. zł, a czas jego wypłaty skróci się z 30 do 14 dni. Według danych ZUS w ubiegłym roku wypłacono blisko 360 tys. zasiłków pogrzebowych, najwięcej w województwie śląskim (50,5...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Zasilek-pogrzebowy-w-gore-z-4-do-7-tys-zl-Co-trzeba-wypelnic-9062946.html</guid>
-      <pubDate>Sun, 04 Jan 2026 17:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 08:00:00 +0100</lastBuildDate>
     <item>
       <title>USA stawiają Wenezueli warunki. Rubio: Blokada będzie kontynuowana</title>
       <link>https://www.bankier.pl/wiadomosc/USA-stawiaja-Wenezueli-warunki-Rubio-Blokada-bedzie-kontynuowana-9063765.html</link>
@@ -584,13 +577,6 @@
       <pubDate>Mon, 05 Jan 2026 15:53:00 +0100</pubDate>
     </item>
     <item>
-      <title>Rosjanie zbombardowali dronami amerykańskie przedsiębiorstwo w Dnieprze</title>
-      <link>https://www.bankier.pl/wiadomosc/Rosjanie-zbombardowali-dronami-amerykanskie-przedsiebiorstwo-w-Dnieprze-9064053.html</link>
-      <description>Rosyjskie wojska zbombardowały w mieście Dniepr na środkowym wschodzie Ukrainy przedsiębiorstwo dużego amerykańskiego producenta rolnego Bunge; w wyniku ataku na ulice miasta wylało się 300 ton oleju roślinnego – powiadomił w poniedziałek...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Rosjanie-zbombardowali-dronami-amerykanskie-przedsiebiorstwo-w-Dnieprze-9064053.html</guid>
-      <pubDate>Mon, 05 Jan 2026 15:56:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Prezydentka Meksyku: odrzucamy ingerencję w sprawy wewnętrzne innych krajów</title>
       <link>https://www.bankier.pl/wiadomosc/Prezydentka-Meksyku-mowi-twardo-odrzucamy-ingerencje-w-sprawy-wewnetrzne-innych-krajow-9064068.html</link>
       <description>Prezydentka Meksyku Claudia Sheinbaum oświadczyła w poniedziałek, że jej rząd kategorycznie odrzuca ingerencję w sprawy wewnętrzne innych krajów - przekazała agencja Reutera.</description>
@@ -708,6 +694,20 @@
       <description>Obalony przywódca Wenezueli Nicolas Maduro i jego żona Cilia Flores usłyszeli w poniedziałek w sądzie federalnym w Nowym Jorku cztery zarzuty, w tym m.in. uczestnictwa w zmowie narkoterrorystycznej i sprowadzania kokainy do USA. Nie przyznali się...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Maduro-stanal-przed-amerykanskim-sadem-Nie-przyznal-sie-do-winy-9064125.html</guid>
       <pubDate>Mon, 05 Jan 2026 19:48:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Rosjanie zbombardowali dronami amerykańskie przedsiębiorstwo w Dnieprze</title>
+      <link>https://www.bankier.pl/wiadomosc/Rosjanie-zbombardowali-dronami-amerykanskie-przedsiebiorstwo-w-Dnieprze-9064053.html</link>
+      <description>Rosyjskie wojska zbombardowały w mieście Dniepr na środkowym wschodzie Ukrainy przedsiębiorstwo dużego amerykańskiego producenta rolnego Bunge; w wyniku ataku na ulice miasta wylało się 300 ton oleju roślinnego – powiadomił w poniedziałek...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Rosjanie-zbombardowali-dronami-amerykanskie-przedsiebiorstwo-w-Dnieprze-9064053.html</guid>
+      <pubDate>Mon, 05 Jan 2026 20:15:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Boom urodzeń wśród cudzoziemców. Prawie dwukrotny wzrost w ciągu 5 lat</title>
+      <link>https://www.bankier.pl/wiadomosc/Boom-urodzen-wsrod-cudzoziemcow-Prawie-dwukrotny-wzrost-w-ciagu-5-lat-9061838.html</link>
+      <description>Dane GUS i Ministerstwa Cyfryzacji potwierdzają znaczący wzrost urodzeń dzieci cudzoziemców w Polsce. Jednak eksperci podkreślają, że choć jest to zauważalne zjawisko, może tylko nieco złagodzić problem demograficzny, jakim jest spadek liczby...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Boom-urodzen-wsrod-cudzoziemcow-Prawie-dwukrotny-wzrost-w-ciagu-5-lat-9061838.html</guid>
+      <pubDate>Tue, 06 Jan 2026 08:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
