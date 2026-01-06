@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 06 Jan 2026 20:11:00 +0100</lastBuildDate>
-    <item>
-      <title>Wielka wyprzedaż w PKP Cargo. Pod młotek idzie prawie 3 tysiące wagonów</title>
-      <link>https://www.bankier.pl/wiadomosc/Wielka-wyprzedaz-w-PKP-Cargo-Pod-mlotek-idzie-prawie-3-tysiace-wagonow-9063915.html</link>
-      <description>PKP Cargo zamierza sprzedać 2831 wraków wagonów towarowych - poinformowała spółka na stronie swojej platformy zakupowej. Termin składania wniosków o dopuszczenie do udziału w licytacji upływa 22 stycznia tego roku.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wielka-wyprzedaz-w-PKP-Cargo-Pod-mlotek-idzie-prawie-3-tysiace-wagonow-9063915.html</guid>
-      <pubDate>Mon, 05 Jan 2026 11:28:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 20:31:00 +0100</lastBuildDate>
     <item>
       <title>Złoty może skorzystać na wydarzeniach w Wenezueli? Euro zbliżyło się do ostatnich minimów</title>
       <link>https://www.bankier.pl/wiadomosc/Zloty-moze-skorzystac-na-wydarzeniach-w-Wenezueli-Euro-zblizylo-sie-do-ostatnich-minimow-9063923.html</link>
@@ -696,18 +689,25 @@
       <pubDate>Tue, 06 Jan 2026 19:37:00 +0100</pubDate>
     </item>
     <item>
+      <title>Brak ponad metra szyny na torach pod Łodzią. Eksperci badają sprawę</title>
+      <link>https://www.bankier.pl/wiadomosc/Brak-ponad-metra-szyny-na-torach-pod-Lodzia-Eksperci-badaja-sprawe-9064388.html</link>
+      <description>Przyczyna braku szyny na torach w miejscowości Będzelin (pow. łódzki wschodni) będzie znana po przeprowadzeniu ekspertyzy technicznej - przekazała PAP we wtorek Katarzyna Michalska z PKP PLK. Według służb, uszkodzenie nie pojawiło się w wyniku...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Brak-ponad-metra-szyny-na-torach-pod-Lodzia-Eksperci-badaja-sprawe-9064388.html</guid>
+      <pubDate>Tue, 06 Jan 2026 19:39:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Reforma PIP do kosza. Tusk: Uważam sprawę za zamkniętą</title>
       <link>https://www.bankier.pl/wiadomosc/Reforma-PIP-do-kosza-Tusk-Uwazam-sprawe-za-zamknieta-9064391.html</link>
       <description>Premier Donald Tusk oświadczył we wtorek, że podjął decyzję, aby nie kontynuować prac nad reformą Państwowej Inspekcji Pracy. Zaznaczył, że przesadna władza dla urzędników, wprowadzana reformą, byłaby destrukcyjna dla firm i oznaczałaby...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Reforma-PIP-do-kosza-Tusk-Uwazam-sprawe-za-zamknieta-9064391.html</guid>
-      <pubDate>Tue, 06 Jan 2026 19:58:00 +0100</pubDate>
+      <pubDate>Tue, 06 Jan 2026 20:30:00 +0100</pubDate>
     </item>
     <item>
       <title>Polska nie wyśle wojska na Ukrainę. Tusk: W żadnym z wariantów</title>
       <link>https://www.bankier.pl/wiadomosc/Polska-nie-wysle-wojska-na-Ukraine-Tusk-W-zadnym-z-wariantow-9064382.html</link>
       <description>Premier Donald Tusk oświadczył we wtorek, że Polska będzie państwem wiodącym w kwestiach logistyczno-organizacyjnych w zabezpieczeniu działań państw, które będą wspierały Ukrainę. Dodał, że partnerzy nie oczekują obecności polskich wojsk...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Polska-nie-wysle-wojska-na-Ukraine-Tusk-W-zadnym-z-wariantow-9064382.html</guid>
-      <pubDate>Tue, 06 Jan 2026 20:11:00 +0100</pubDate>
+      <pubDate>Tue, 06 Jan 2026 20:31:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
