@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 06 Jan 2026 15:00:00 +0100</lastBuildDate>
-    <item>
-      <title>„Podżeganie do przemocy”. Teheran oskarża Izrael i USA o podsycanie protestów</title>
-      <link>https://www.bankier.pl/wiadomosc/Podzeganie-do-przemocy-Teheran-oskarza-Izrael-i-USA-o-podsycanie-protestow-9063875.html</link>
-      <description>MSZ Iranu oskarżyło w poniedziałek władze Izraela o próbę „podważenia jedności narodowej” po tym, jak premier Izraela Benjamin Netanjahu wyraził „solidarność z walką” irańskiego narodu, mając na myśli ostatnie protesty antyrządowe...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Podzeganie-do-przemocy-Teheran-oskarza-Izrael-i-USA-o-podsycanie-protestow-9063875.html</guid>
-      <pubDate>Mon, 05 Jan 2026 09:46:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 16:54:00 +0100</lastBuildDate>
     <item>
       <title>Co z chińskimi interesami w Wenezueli? Pekin chce je kontynuować</title>
       <link>https://www.bankier.pl/wiadomosc/Co-z-chinskimi-interesami-w-Wenezueli-Pekin-chce-je-kontynuowac-9063873.html</link>
@@ -708,6 +701,13 @@
       <description>Blisko 7,5 mln Polek i Polaków zastrzegło swój PESEL - poinformował resort cyfryzacji. 75 proc. wszystkich zastrzeżeń dokonano w aplikacji mObywatel. Resort przypomniał, że aby zastrzec PESEL wystarczy jedno kliknięcie.</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Rekordowa-liczba-zastrzezonych-numerow-PESEL-Zrobilo-to-juz-7-5-miliona-Polakow-9054771.html</guid>
       <pubDate>Tue, 06 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Advent stoi za wartą 6 mld euro ofertą przejęcia InPostu - Sky News</title>
+      <link>https://www.bankier.pl/wiadomosc/Advent-stoi-za-warta-6-mld-euro-oferta-przejecia-InPostu-Sky-News-9064363.html</link>
+      <description>Fundusz private equity Advent International jest częścią konsorsjum, które stoi za wartą 6 mld euro ofertą przejęcia InPostu, operatora logistycznego dla branży e-commerce - poinformował Sky News, nie podając źródeł swojej informacji.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Advent-stoi-za-warta-6-mld-euro-oferta-przejecia-InPostu-Sky-News-9064363.html</guid>
+      <pubDate>Tue, 06 Jan 2026 16:54:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
