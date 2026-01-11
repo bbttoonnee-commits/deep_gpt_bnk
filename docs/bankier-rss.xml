@@ -8,35 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 11 Jan 2026 15:29:00 +0100</lastBuildDate>
-    <item>
-      <title>Zwrot w sprawie reformy PIP. Tusk i Czarzasty ogłaszają wznowienie prac</title>
-      <link>https://www.bankier.pl/wiadomosc/Zwrot-w-sprawie-reformy-PIP-Tusk-i-Czarzasty-oglaszaja-wznowienie-prac-9066307.html</link>
-      <description>Jeszcze dziś ministra rodziny, pracy i polityki społecznej Agnieszka Dziemianowicz-Bąk dostanie rekomendacje, by wraz z ministrem sprawiedliwości Waldemarem Żurkiem podjąć pracę ws. projektu ustawy o Państwowej Inspekcji Pracy - przekazał w...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Zwrot-w-sprawie-reformy-PIP-Tusk-i-Czarzasty-oglaszaja-wznowienie-prac-9066307.html</guid>
-      <pubDate>Fri, 09 Jan 2026 19:15:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kolejni Polacy z azylem u Orbana? Rząd wciąż nie wie, kogo chroni Budapeszt</title>
-      <link>https://www.bankier.pl/wiadomosc/Kolejni-Polacy-z-azylem-u-Orbana-Rzad-wciaz-nie-wie-kogo-chroni-Budapeszt-9066311.html</link>
-      <description>Rzecznik MSZ Maciej Wewiór poinformował PAP, że w piątek po południu do resortu przybył ambasador Węgier. W dalszym ciągu nie otrzymaliśmy odpowiedzi ze strony węgierskiej, kto został objęty azylem - dodał Wewiór.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Kolejni-Polacy-z-azylem-u-Orbana-Rzad-wciaz-nie-wie-kogo-chroni-Budapeszt-9066311.html</guid>
-      <pubDate>Fri, 09 Jan 2026 19:31:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Koniec z papierowymi wnioskami w CEIDG. Sejm pracuje nad pełną cyfryzacją</title>
-      <link>https://www.bankier.pl/wiadomosc/Koniec-z-papierowymi-wnioskami-w-CEIDG-Sejm-pracuje-nad-pelna-cyfryzacja-9066315.html</link>
-      <description>Projekt ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej został w piątek skierowany do prac w połączonych komisjach.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Koniec-z-papierowymi-wnioskami-w-CEIDG-Sejm-pracuje-nad-pelna-cyfryzacja-9066315.html</guid>
-      <pubDate>Fri, 09 Jan 2026 19:33:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Unibep z najkorzystniejszą ofertą za 20,9 mln zł</title>
-      <link>https://www.bankier.pl/wiadomosc/Oferta-Unibepu-na-rozbudowe-zakladu-opiekunczo-leczniczego-za-ok-20-9-mln-zl-najkorzystniejsza-9066317.html</link>
-      <description>Oferta Unihouse, spółki zależnej Unibepu, na rozbudowę zakładu opiekuńczo-leczniczego została wybrana jako najkorzystniejsza przez Wielospecjalistyczny Szpital - Samodzielny Publiczny Zakład Opieki Zdrowotnej w Zgorzelcu - podał Unibep w komunikacie...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Oferta-Unibepu-na-rozbudowe-zakladu-opiekunczo-leczniczego-za-ok-20-9-mln-zl-najkorzystniejsza-9066317.html</guid>
-      <pubDate>Fri, 09 Jan 2026 19:44:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Jan 2026 19:43:00 +0100</lastBuildDate>
     <item>
       <title>"Demonstracyjny krok Moskwy". To wyzwanie dla Warszawy, Bukaresztu i Budapesztu</title>
       <link>https://www.bankier.pl/wiadomosc/Demonstracyjny-krok-Moskwy-To-wyzwanie-dla-Warszawy-Bukaresztu-i-Budapesztu-9066312.html</link>
@@ -500,6 +472,13 @@
       <pubDate>Sun, 11 Jan 2026 12:55:00 +0100</pubDate>
     </item>
     <item>
+      <title>Rynek pracy 2025. Prawie 600 tys. Polaków bez zajęcia, mimo rekordowo niskich wskaźników</title>
+      <link>https://www.bankier.pl/wiadomosc/Rynek-pracy-2025-Prawie-600-tys-Polakow-bez-zajecia-mimo-rekordowo-niskich-wskaznikow-9065190.html</link>
+      <description>Poziom bezrobocia w Unii Europejskiej utrzymywał się pod koniec 2025 roku na stałym poziomie 6 proc. Bezrobocie w Polsce w listopadzie ub.r. wyniosło 3,2 proc. i było jednym z najniższych w UE. Nadal jednak 577 tys. Polaków nie ma pracy – wynika...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Rynek-pracy-2025-Prawie-600-tys-Polakow-bez-zajecia-mimo-rekordowo-niskich-wskaznikow-9065190.html</guid>
+      <pubDate>Sun, 11 Jan 2026 13:00:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Trump wypomina Norwegii brak Nobla. "Pamiętajcie, że sam zakończyłem 8 wojen"</title>
       <link>https://www.bankier.pl/wiadomosc/Trump-wypomina-Norwegii-brak-Nobla-Pamietajcie-ze-sam-zakonczylem-8-wojen-9064789.html</link>
       <description>Prezydent USA Donald Trump oświadczył, że wątpi, by NATO stanęło w obronie Stanów Zjednoczonych, jednak zapewnił, że USA zawsze będą wspierać sojuszników z NATO. Dodał też, że gdyby nie on, to Rosja zdobyłaby już całą Ukrainę.</description>
@@ -556,11 +535,32 @@
       <pubDate>Sun, 11 Jan 2026 15:25:00 +0100</pubDate>
     </item>
     <item>
+      <title>Eksperci alarmują: TikTok poza kontrolą dorosłych. Algorytmy modelują emocje dzieci</title>
+      <link>https://www.bankier.pl/wiadomosc/Eksperci-alarmuja-TikTok-poza-kontrola-doroslych-Algorytmy-modeluja-emocje-dzieci-9063700.html</link>
+      <description>TikTok stał się jednym z najpoważniejszych wyzwań dla bezpieczeństwa dzieci w internecie – ostrzegają eksperci. Wskazują na nieskuteczną kontrolę rodzicielską, agresywne algorytmy i realne zagrożenia dla zdrowia psychicznego najmłodszych...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Eksperci-alarmuja-TikTok-poza-kontrola-doroslych-Algorytmy-modeluja-emocje-dzieci-9063700.html</guid>
+      <pubDate>Sun, 11 Jan 2026 16:01:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Efekt Sheinbaum. Meksyk notuje rekordowy spadek przestępczości</title>
+      <link>https://www.bankier.pl/wiadomosc/Efekt-Sheinbaum-Meksyk-notuje-rekordowy-spadek-przestepczosci-9065321.html</link>
+      <description>Dzienny wskaźnik zabójstw spadł w Meksyku o prawie 40 proc. w porównaniu z okresem sprzed objęcia urzędu przez prezydentkę Claudię Sheinbaum – poinformowali w czwartek przedstawiciele meksykańskiego rządu.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Efekt-Sheinbaum-Meksyk-notuje-rekordowy-spadek-przestepczosci-9065321.html</guid>
+      <pubDate>Sun, 11 Jan 2026 16:03:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Bez rąk do pracy ze wschodu polska gospodarka stanie. Mocna diagnoza prezesa KredoBanku</title>
+      <link>https://www.bankier.pl/wiadomosc/Bez-rak-do-pracy-ze-wschodu-polska-gospodarka-stanie-Mocna-diagnoza-prezesa-KredoBanku-9065510.html</link>
+      <description>Ukraińcy pracujący i mieszkający w Polsce realnie wspierają polską gospodarkę, a wojna w Ukrainie ma bezpośredni wpływ na bezpieczeństwo Polski – ocenił ekonomista i prezes KredoBanku Jakub Karnowski w materiale portalu Sestry.eu.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Bez-rak-do-pracy-ze-wschodu-polska-gospodarka-stanie-Mocna-diagnoza-prezesa-KredoBanku-9065510.html</guid>
+      <pubDate>Sun, 11 Jan 2026 18:00:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Scenariusz wenezuelski w Iranie? Trump: Iran spogląda ku wolności, USA gotowe pomóc</title>
       <link>https://www.bankier.pl/wiadomosc/Scenariusz-wenezuelski-w-Iranie-Trump-Iran-spoglada-ku-wolnosci-USA-gotowe-pomoc-9066503.html</link>
       <description>„Iran spogląda ku wolności, być może jak nigdy dotąd. USA są gotowe pomóc!” - napisał w sobotę w swym serwisie społecznościowym Truth Social prezydent Donald Trump. W piątek ostrzegł irański reżim, by „nie zaczynał strzelać, bo...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Scenariusz-wenezuelski-w-Iranie-Trump-Iran-spoglada-ku-wolnosci-USA-gotowe-pomoc-9066503.html</guid>
-      <pubDate>Sun, 11 Jan 2026 15:29:00 +0100</pubDate>
+      <pubDate>Sun, 11 Jan 2026 19:43:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
