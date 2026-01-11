@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 11 Jan 2026 19:43:00 +0100</lastBuildDate>
-    <item>
-      <title>"Demonstracyjny krok Moskwy". To wyzwanie dla Warszawy, Bukaresztu i Budapesztu</title>
-      <link>https://www.bankier.pl/wiadomosc/Demonstracyjny-krok-Moskwy-To-wyzwanie-dla-Warszawy-Bukaresztu-i-Budapesztu-9066312.html</link>
-      <description>Zastosowanie przez Rosję rakiety balistycznej Oriesznik było ze strony Moskwy bardzo demonstracyjnym krokiem; jej uderzenie tuż u granic UE jest wyzwaniem dla Warszawy, Bukaresztu, a nawet Budapesztu – oświadczył w piątek wieczorem prezydent Ukrainy...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Demonstracyjny-krok-Moskwy-To-wyzwanie-dla-Warszawy-Bukaresztu-i-Budapesztu-9066312.html</guid>
-      <pubDate>Fri, 09 Jan 2026 20:19:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Jan 2026 20:05:00 +0100</lastBuildDate>
     <item>
       <title>Blacksheep i Alexis Fortune poniżej 5% w Sygnity</title>
       <link>https://www.bankier.pl/wiadomosc/Blacksheep-Fund-Management-oraz-Alexis-Fortune-maja-ponizej-5-proc-Sygnity-9066338.html</link>
@@ -507,13 +500,6 @@
       <pubDate>Sun, 11 Jan 2026 13:39:00 +0100</pubDate>
     </item>
     <item>
-      <title>Nordyccy dyplomaci odpowiadają Białemu Domowi. "Twierdzenia o Grenlandii są nieprawdziwe"</title>
-      <link>https://www.bankier.pl/wiadomosc/Nordyccy-dyplomaci-odpowiadaja-Bialemu-Domowi-Twierdzenia-o-Grenlandii-sa-nieprawdziwe-9066605.html</link>
-      <description>Dyplomaci z krajów nordyckich odrzucają twierdzenia prezydenta USA Donalda Trumpa o rosyjskich i chińskich okrętach krążących wokół Grenlandii, czym amerykański przywódca uzasadnia potrzebę przejęcia zwierzchnictwa nad tą wyspą - napisał...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Nordyccy-dyplomaci-odpowiadaja-Bialemu-Domowi-Twierdzenia-o-Grenlandii-sa-nieprawdziwe-9066605.html</guid>
-      <pubDate>Sun, 11 Jan 2026 13:53:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Sztorm na Bałtyku i wezbrania rzek. IMGW wydaje ostrzeżenia II stopnia</title>
       <link>https://www.bankier.pl/wiadomosc/Sztorm-na-Baltyku-i-wezbrania-rzek-IMGW-wydaje-ostrzezenia-II-stopnia-9066610.html</link>
       <description>Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia hydrologiczne II stopnia w woj. warmińsko-mazurskim, gdzie możliwe jest lokalne przekroczenie stanu ostrzegawczego. Podtrzymane zostały ostrzeżenia II st. na Wybrzeżu. Tam Instytut ostrzega...</description>
@@ -556,11 +542,39 @@
       <pubDate>Sun, 11 Jan 2026 18:00:00 +0100</pubDate>
     </item>
     <item>
+      <title>Puchar Świata w Zakopanem. Patrzymy, jak poszło polskiej reprezentacji</title>
+      <link>https://www.bankier.pl/wiadomosc/Puchar-Swiata-w-Zakopanem-Patrzymy-jak-poszlo-polskiej-reprezentacji-9066651.html</link>
+      <description>Kacper Tomasiak zajął 11. miejsce w konkursie Pucharu Świata w skokach narciarskich w Zakopanem. Ostatni konkursowy skok na Wielkiej Krokwi oddał Kamil Stoch zajmując 42. miejsce. Wygrał Słoweniec Anze Lanisek, który na podium odebrał trofeum...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Puchar-Swiata-w-Zakopanem-Patrzymy-jak-poszlo-polskiej-reprezentacji-9066651.html</guid>
+      <pubDate>Sun, 11 Jan 2026 19:26:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Scenariusz wenezuelski w Iranie? Trump: Iran spogląda ku wolności, USA gotowe pomóc</title>
       <link>https://www.bankier.pl/wiadomosc/Scenariusz-wenezuelski-w-Iranie-Trump-Iran-spoglada-ku-wolnosci-USA-gotowe-pomoc-9066503.html</link>
       <description>„Iran spogląda ku wolności, być może jak nigdy dotąd. USA są gotowe pomóc!” - napisał w sobotę w swym serwisie społecznościowym Truth Social prezydent Donald Trump. W piątek ostrzegł irański reżim, by „nie zaczynał strzelać, bo...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Scenariusz-wenezuelski-w-Iranie-Trump-Iran-spoglada-ku-wolnosci-USA-gotowe-pomoc-9066503.html</guid>
       <pubDate>Sun, 11 Jan 2026 19:43:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Nordyccy dyplomaci odpowiadają Białemu Domowi. "Twierdzenia o Grenlandii są nieprawdziwe"</title>
+      <link>https://www.bankier.pl/wiadomosc/Nordyccy-dyplomaci-odpowiadaja-Bialemu-Domowi-Twierdzenia-o-Grenlandii-sa-nieprawdziwe-9066605.html</link>
+      <description>Dyplomaci z krajów nordyckich odrzucają twierdzenia prezydenta USA Donalda Trumpa o rosyjskich i chińskich okrętach krążących wokół Grenlandii, czym amerykański przywódca uzasadnia potrzebę przejęcia zwierzchnictwa nad tą wyspą - napisał...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Nordyccy-dyplomaci-odpowiadaja-Bialemu-Domowi-Twierdzenia-o-Grenlandii-sa-nieprawdziwe-9066605.html</guid>
+      <pubDate>Sun, 11 Jan 2026 19:47:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Marco Rubio nowym liderem Kuby? Trump typuje nowego lidera</title>
+      <link>https://www.bankier.pl/wiadomosc/Marco-Rubio-nowym-liderem-Kuby-Trump-wskazuje-nowego-lidera-9066614.html</link>
+      <description>Prezydent USA Donald Trump udostępnił w niedzielę na swojej platformie społecznościowej Truth Social post, w którym zasugerował, iż sekretarz stanu USA Marco Rubio, urodzony w rodzinie kubańskich imigrantów, powinien zostać kolejnym przywódcą...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Marco-Rubio-nowym-liderem-Kuby-Trump-wskazuje-nowego-lidera-9066614.html</guid>
+      <pubDate>Sun, 11 Jan 2026 19:57:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Darmowa wiza, praca i ulgi. Kto może się ubiegać o Kartę Polaka?</title>
+      <link>https://www.bankier.pl/wiadomosc/Darmowa-wiza-praca-i-ulgi-Kto-moze-sie-ubiegac-o-Karte-Polaka-9066603.html</link>
+      <description>Od 12 do 14 stycznia osoby z Białorusi, Ukrainy i Rosji oraz ci, którzy mają w tych krajach status tzw. bezpaństwowca mogą się rejestrować w Podlaskim Urzędzie Wojewódzkim w Białymstoku, aby ubiegać się o wydanie Karty Polaka - poinformował...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Darmowa-wiza-praca-i-ulgi-Kto-moze-sie-ubiegac-o-Karte-Polaka-9066603.html</guid>
+      <pubDate>Sun, 11 Jan 2026 20:05:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
