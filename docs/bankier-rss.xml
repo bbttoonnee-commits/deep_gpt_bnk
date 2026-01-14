@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 14 Jan 2026 20:10:00 +0100</lastBuildDate>
-    <item>
-      <title>Masowe protesty w Portugalii. Pracownicy nie chcą ułatwiać firmom zwolnień</title>
-      <link>https://www.bankier.pl/wiadomosc/Masowe-protesty-w-Portugalii-Pracownicy-nie-chca-ulatwiac-firmom-zwolnien-9067922.html</link>
-      <description>Kilka tysięcy osób, głównie członków największego portugalskiego związku zawodowego CGTP, wzięło udział we wtorkowej manifestacji w centrum Lizbony przeciwko rządowemu planowi zmiany kodeksu pracy.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Masowe-protesty-w-Portugalii-Pracownicy-nie-chca-ulatwiac-firmom-zwolnien-9067922.html</guid>
-      <pubDate>Wed, 14 Jan 2026 07:32:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 22:20:00 +0100</lastBuildDate>
     <item>
       <title>Gra o Grenlandię. Premier: Chcemy NATO, Danię i UE. Trump: To będzie duży problem</title>
       <link>https://www.bankier.pl/wiadomosc/Gra-o-Grenlandie-Dania-wzywa-na-pomoc-NATO-ale-rozmawia-z-USA-9067536.html</link>
@@ -430,6 +423,13 @@
       <pubDate>Wed, 14 Jan 2026 13:37:00 +0100</pubDate>
     </item>
     <item>
+      <title>Europa ucieka Polsce? Średnia unijna OZE to blisko 50 proc., w Polsce 30 proc.</title>
+      <link>https://www.bankier.pl/wiadomosc/Europa-ucieka-Polsce-Srednia-unijna-OZE-to-blisko-50-proc-w-Polsce-30-proc-9068174.html</link>
+      <description>Udział OZE w całkowitej konsumpcji energii w Polsce w 2024 roku wyniósł 30,37 proc. przy średniej UE 47,5 proc. - podał Eurostat.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Europa-ucieka-Polsce-Srednia-unijna-OZE-to-blisko-50-proc-w-Polsce-30-proc-9068174.html</guid>
+      <pubDate>Wed, 14 Jan 2026 13:40:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Rząd ostrzega: jeśli budżet trafi do Trybunału, budżetówka nie dostanie podwyżek</title>
       <link>https://www.bankier.pl/wiadomosc/Rzad-ostrzega-jesli-budzet-trafi-do-Trybunalu-budzetowka-nie-dostanie-podwyzek-9067252.html</link>
       <description>W przypadku skierowania przez prezydenta Karola Nawrockiego ustawy budżetowej na 2026 r. do Trybunału Konstytucyjnego, rząd będzie rządził na podstawie projektu budżetu złożonego do Sejmu - poinformował w poniedziałek minister finansów i gospodarki...</description>
@@ -701,6 +701,13 @@
       <description>Zastępca przewodniczącej Trybunału Stanu Piotr Andrzejewski zwrócił się do - jak to określił - Prokuratora Krajowego Dariusza Barskiego o zajęcie stanowiska legalizującego wnioski prokuratury ws. immunitetu Małgorzaty Manowskiej. Dodał, że...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/TS-nie-rozpozna-sprawy-Manowskiej-bez-zajecia-stanowiska-przez-Barskiego-9068499.html</guid>
       <pubDate>Wed, 14 Jan 2026 20:10:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Spadki na Wall Street. S&amp;P500 spadł ze szczytu hossy</title>
+      <link>https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-S-P500-spadl-ze-szczytu-hossy-9068536.html</link>
+      <description>Środa przyniosła przewagę spadków na nowojorskich giełdach. Oberwało się zwłaszcza spółkom technologicznym.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-S-P500-spadl-ze-szczytu-hossy-9068536.html</guid>
+      <pubDate>Wed, 14 Jan 2026 22:20:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
