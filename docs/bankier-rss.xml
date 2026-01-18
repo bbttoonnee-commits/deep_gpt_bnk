@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 18 Jan 2026 09:12:00 +0100</lastBuildDate>
-    <item>
-      <title>Wyzwania nadchodzącej dekady tematami „Leaders Forum powered by Poland”</title>
-      <link>https://www.bankier.pl/wiadomosc/Wyzwania-nadchodzacej-dekady-tematami-Leaders-Forum-powered-by-Poland-9069910.html</link>
-      <description>Kluczowe wyzwania nadchodzącej dekady, w tym bezpieczeństwo energetyczne, globalizacja i nowe technologie będą tematami rozmów zagranicznych i krajowych ekspertów podczas „Leaders Forum powered by Poland” organizowanym w trakcie Światowego...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wyzwania-nadchodzacej-dekady-tematami-Leaders-Forum-powered-by-Poland-9069910.html</guid>
-      <pubDate>Sat, 17 Jan 2026 05:31:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Jan 2026 10:00:00 +0100</lastBuildDate>
     <item>
       <title>Wall Street mówi „dość”. Złoto już jest za drogie, a kapitał lepiej lokować poza USA</title>
       <link>https://www.bankier.pl/wiadomosc/Wall-Street-mowi-dosc-Zloto-juz-jest-za-drogie-a-kapital-lepiej-lokowac-poza-USA-9069834.html</link>
@@ -708,6 +701,13 @@
       <description>Najnowszy odwiert geotermalny w Szaflarach ma znacznie wyższy potencjał złoża niż zakładano – powiedział PAP wójt gminy Szaflary Rafał Szkaradziński. Temperatura wody sięga 120 st. C, a wydajność złoża może wynosić ok. 400 m sześc...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Szaflary-odkryly-energetyczne-zloto-To-bedzie-pierwsza-taka-elektrownia-w-Polsce-9070127.html</guid>
       <pubDate>Sun, 18 Jan 2026 09:12:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Luwr wprowadził podwyższone ceny biletów dla turystów spoza Europy</title>
+      <link>https://www.bankier.pl/wiadomosc/Luwr-wprowadzil-podwyzszone-ceny-biletow-dla-turystow-spoza-Europy-9068513.html</link>
+      <description>W paryskim Luwrze obowiązują wyższe ceny biletów dla turystów spoza Europy. Goście z Azji, Ameryki Południowej czy USA muszą teraz płacić za bilet 32 euro, w miejsce 22 euro. Niektórzy turyści przyjęli nową cenę ze zrozumieniem, inni uważają...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Luwr-wprowadzil-podwyzszone-ceny-biletow-dla-turystow-spoza-Europy-9068513.html</guid>
+      <pubDate>Sun, 18 Jan 2026 10:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
