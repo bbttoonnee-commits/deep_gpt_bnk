@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 18 Jan 2026 20:18:00 +0100</lastBuildDate>
-    <item>
-      <title>Kreml rekrutuje sabotażystów, a ekstremiści werbują 12-latków</title>
-      <link>https://www.bankier.pl/wiadomosc/Kreml-rekrutuje-sabotazystow-a-ekstremisci-werbuja-12-latkow-9068794.html</link>
-      <description>Belgia mierzy się z rosnącą liczbą zagrożeń dla swego bezpieczeństwa, od rosyjskich działań wywiadowczych po przestępczość narkotykową; Rosja jest też największym zewnętrznym zagrożeniem – wynika z raportu belgijskiej Służby Bezpieczeństwa...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Kreml-rekrutuje-sabotazystow-a-ekstremisci-werbuja-12-latkow-9068794.html</guid>
-      <pubDate>Sat, 17 Jan 2026 16:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Jan 2026 20:40:00 +0100</lastBuildDate>
     <item>
       <title>Farmy trolli to przeszłość. Teraz grożą nam farmy treści AI. Eksperci alarmują</title>
       <link>https://www.bankier.pl/wiadomosc/Farmy-trolli-to-przeszlosc-Teraz-groza-nam-farmy-tresci-AI-Eksperci-alarmuja-9066409.html</link>
@@ -708,6 +701,13 @@
       <description>Krajowa Rada Radiofonii i Telewizji poinformowała o przekazaniu ponad 21 mln zł z wpływów abonamentowych ośmiu spółkom mediów publicznych, w tym Polskiemu Radiu i Radiu Gdańsk. To efekt zwrócenia do KRRiT środków z rachunku depozytowego Ministra...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Miliony-odblokowane-KRRiT-przelewa-pieniadze-z-abonamentu-spolkom-mediow-publicznych-9068503.html</guid>
       <pubDate>Sun, 18 Jan 2026 20:18:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Rząd Syrii i SDF zawarły porozumienie o zawieszeniu broni</title>
+      <link>https://www.bankier.pl/wiadomosc/Rzad-Syrii-i-SDF-zawarly-porozumienie-o-zawieszeniu-broni-9070204.html</link>
+      <description>Rząd Syrii i Syryjskie Siły Demokratyczne (SDF), w większości składające się z Kurdów, zawarły w niedzielę porozumienie o natychmiastowym zawieszeniu broni na wszystkich frontach - poinformowały państwowe media syryjskie.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Rzad-Syrii-i-SDF-zawarly-porozumienie-o-zawieszeniu-broni-9070204.html</guid>
+      <pubDate>Sun, 18 Jan 2026 20:40:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
