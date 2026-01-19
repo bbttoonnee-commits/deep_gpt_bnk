@@ -8,35 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 19 Jan 2026 18:26:00 +0100</lastBuildDate>
-    <item>
-      <title>Chiny się kurczą. Czwarty rok spadku populacji i rekordowo mało urodzeń</title>
-      <link>https://www.bankier.pl/wiadomosc/Chiny-sie-kurcza-Czwarty-rok-spadku-populacji-i-rekordowo-malo-urodzen-9070292.html</link>
-      <description>Populacja Chin zmniejszyła się w 2025 roku o 3,39 mln osób i spadła do poziomu 1,405 mld — podało w poniedziałek Narodowe Biuro Statystyczne. To czwarty z rzędu rok spadków, spowodowany rekordowo niską liczbą urodzeń oraz rosnącą liczbą...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Chiny-sie-kurcza-Czwarty-rok-spadku-populacji-i-rekordowo-malo-urodzen-9070292.html</guid>
-      <pubDate>Mon, 19 Jan 2026 07:21:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Miliardy euro na zbrojenia. Polska bierze najwięcej z całej UE</title>
-      <link>https://www.bankier.pl/wiadomosc/Miliardy-euro-na-zbrojenia-Polska-bierze-najwiecej-z-calej-UE-9070278.html</link>
-      <description>15 stycznia 2026 roku Komisja Europejska zatwierdziła krajowe plany obronne ośmiu państw członkowskich w ramach procedury SAFE, czyli unijnego programu pożyczek na inwestycje w obronność. Wśród nich znalazło się osiem państw członkowskich...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Miliardy-euro-na-zbrojenia-Polska-bierze-najwiecej-z-calej-UE-9070278.html</guid>
-      <pubDate>Mon, 19 Jan 2026 07:25:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Wenezuela otwiera swoje więzienia. Wśród uwolnionych jest Polak</title>
-      <link>https://www.bankier.pl/wiadomosc/Wenezuela-otwiera-swoje-wiezienia-Wsrod-uwolnionych-jest-Polak-9070246.html</link>
-      <description>Do niedzielnego wieczora reżim wenezuelski uwolnił 143 więźniów politycznych, przekazała pozarządowa organizacja Foro Penal.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wenezuela-otwiera-swoje-wiezienia-Wsrod-uwolnionych-jest-Polak-9070246.html</guid>
-      <pubDate>Mon, 19 Jan 2026 07:27:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Komitet Stały RM cofnie uchwałę o wydzieleniu aktywów węglowych</title>
-      <link>https://www.bankier.pl/wiadomosc/Komitet-Staly-RM-uchyli-uchwale-rzadu-w-sprawie-wydzielenia-aktywow-weglowych-9070294.html</link>
-      <description>Komitet Stały Rady Ministrów na posiedzeniu w czwartek uchyli uchwałę rządu z marca 2022 roku w sprawie wydzielenia aktywów węglowych ze spółek Skarbu Państwa - podano na stronie KPRM.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Komitet-Staly-RM-uchyli-uchwale-rzadu-w-sprawie-wydzielenia-aktywow-weglowych-9070294.html</guid>
-      <pubDate>Mon, 19 Jan 2026 07:28:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Jan 2026 19:33:00 +0100</lastBuildDate>
     <item>
       <title>Kuba szykuje się do wojny. Władze zatwierdziły plan działań w sytuacji konfliktu zbrojnego</title>
       <link>https://www.bankier.pl/wiadomosc/Kuba-szykuje-sie-do-wojny-Wladze-zatwierdzily-plan-dzialan-w-sytuacji-konfliktu-zbrojnego-9070272.html</link>
@@ -176,13 +148,6 @@
       <description>Bank Pekao, działający jako agent kredytu, zawiadomił o postawieniu w stan wymagalności zobowiązań Grupy Azoty Polyolefins wynikających z umowy kredytów uprzywilejowanych - terminowego, obrotowego i VAT z dnia 31 maja 2020 roku o szacunkowej wartości...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Bank-Pekao-domaga-sie-splaty-przez-Grupe-Azoty-Polyolefins-3-952-mld-zl-zobowiazan-9069895.html</guid>
       <pubDate>Mon, 19 Jan 2026 09:44:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Chiny reagują na polską blokadę ich elektryków. "To nadużycie"</title>
-      <link>https://www.bankier.pl/wiadomosc/Chiny-reaguja-na-polska-blokade-ich-elektrykow-To-naduzycie-9070346.html</link>
-      <description>Należy położyć kres nadużywaniu pojęcia bezpieczeństwa narodowego – oświadczył w poniedziałek rzecznik chińskiego MSZ, odpowiadając na pytanie PAP. To reakcja Pekinu na doniesienia o planowanym przez polską armię zakazie wjazdu na tereny...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Chiny-reaguja-na-polska-blokade-ich-elektrykow-To-naduzycie-9070346.html</guid>
-      <pubDate>Mon, 19 Jan 2026 09:48:00 +0100</pubDate>
     </item>
     <item>
       <title>Osiem państw europejskich murem za Grenlandią. Wydały wspólne oświadczenie</title>
@@ -619,7 +584,7 @@
       <pubDate>Mon, 19 Jan 2026 15:54:00 +0100</pubDate>
     </item>
     <item>
-      <title>Awaria Blika w mBanku. Klienci mają trudności z płatnościami</title>
+      <title>Awaria Blika w mBanku. Klienci mieli trudności z płatnościami</title>
       <link>https://www.bankier.pl/wiadomosc/Awaria-Blika-w-mBanku-Klienci-maja-trudnosci-z-platnosciami-9070599.html</link>
       <description>Część użytkowników BLIKA może mieć trudności w korzystaniu z wybranych usług; jest to związane z zakłóceniami technicznymi po stronie jednego z wydawców i nie dotyczy całego systemu - poinformowało PAP w poniedziałek biuro prasowe BLIK...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Awaria-Blika-w-mBanku-Klienci-maja-trudnosci-z-platnosciami-9070599.html</guid>
@@ -708,6 +673,34 @@
       <description>Zarząd Zakładu Utylizacji Odpadów, spółki zależnej Boryszewa, uzyskał decyzję w sprawie zatwierdzenia projektu budowlanego dla budowy instalacji termicznego przekształcania odpadów, planowanej do realizacji w Koninie - podała spółka w komunikacie...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Spolka-Boryszewa-ze-zgoda-na-budowe-instalacji-termicznego-przeksztalcania-odpadow-niebezpiecznych-9070732.html</guid>
       <pubDate>Mon, 19 Jan 2026 18:26:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Sejm dla prawicy. PiS z Konfederacją i Braunem zgarniają ponad 47 procent</title>
+      <link>https://www.bankier.pl/wiadomosc/Sejm-dla-prawicy-PiS-z-Konfederacja-i-Braunem-zgarniaja-ponad-47-procent-9070743.html</link>
+      <description>Gdyby wybory odbyły się w najbliższą niedzielę, Koalicja Obywatelska mogłaby liczyć na 31,8 proc. poparcia, PiS na 26,2 proc., a Konfederacja na 14 proc. - wynika z sondażu United Surveys dla wp.pl. Do Sejmu weszłyby jeszcze Konfederacja Korony...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Sejm-dla-prawicy-PiS-z-Konfederacja-i-Braunem-zgarniaja-ponad-47-procent-9070743.html</guid>
+      <pubDate>Mon, 19 Jan 2026 18:43:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Budżet 2026. Prezydent zdecydował o skierowaniu go do Trybunału Konstytucyjnego</title>
+      <link>https://www.bankier.pl/wiadomosc/Budzet-2026-Prezydent-zdecydowal-o-skierowaniu-go-do-Trybunalu-Konstytucyjnego-9070752.html</link>
+      <description>Prezydent Karol Nawrocki podpisał ustawę budżetową na 2026 r. – poinformowała w poniedziałek na X kancelaria prezydenta. Jednocześnie prezydent zdecydował o skierowaniu ustawy do Trybunału Konstytucyjnego.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Budzet-2026-Prezydent-zdecydowal-o-skierowaniu-go-do-Trybunalu-Konstytucyjnego-9070752.html</guid>
+      <pubDate>Mon, 19 Jan 2026 18:59:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Napięcie na linii z Waszyngtonem. "Jeśli nie zareagujemy stanowczo, damy sygnał słabości"</title>
+      <link>https://www.bankier.pl/wiadomosc/Napiecie-na-linii-z-Waszyngtonem-Jesli-nie-zareagujemy-stanowczo-damy-sygnal-slabosci-9070742.html</link>
+      <description>Szefowa unijnej dyplomacji Kaja Kallas oświadczyła w poniedziałek po spotkaniu z ministrami z Danii i Grenlandii, że UE nie ma interesu we wszczynaniu sporów, ale będzie bronić swojego stanowiska. Jak dodała, groźby celne prezydenta USA Donalda...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Napiecie-na-linii-z-Waszyngtonem-Jesli-nie-zareagujemy-stanowczo-damy-sygnal-slabosci-9070742.html</guid>
+      <pubDate>Mon, 19 Jan 2026 19:32:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Związki zawodowe będą kontynuowały rozmowy z zarządem JSW</title>
+      <link>https://www.bankier.pl/wiadomosc/Zwiazki-zawodowe-beda-kontynuowaly-rozmowy-z-zarzadem-JSW-9070744.html</link>
+      <description>Po poniedziałkowym spotkaniu zarządu Jastrzębskiej Spółki Węglowej z reprezentatywnymi związkami zawodowymi ws. porozumienia, które ma dostosować koszty wynagrodzeń do możliwości finansowych spółki rozmowy będą kontynuowane - podała w...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Zwiazki-zawodowe-beda-kontynuowaly-rozmowy-z-zarzadem-JSW-9070744.html</guid>
+      <pubDate>Mon, 19 Jan 2026 19:33:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
