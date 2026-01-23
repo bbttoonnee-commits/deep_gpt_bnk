@@ -8,49 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 23 Jan 2026 19:33:00 +0100</lastBuildDate>
-    <item>
-      <title>Ukraina: system energetyczny przeżył najtrudniejszy dzień od 2022 roku</title>
-      <link>https://www.bankier.pl/wiadomosc/Ukraina-system-energetyczny-przezyl-najtrudniejszy-dzien-od-2022-roku-9072895.html</link>
-      <description>Dzisiejszy dzień był najtrudniejszy dla systemu energetycznego Ukrainy od blackoutu z listopada 2022 roku – oświadczył w czwartek ukraiński pierwszy wicepremier, minister energetyki Denys Szmyhal.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ukraina-system-energetyczny-przezyl-najtrudniejszy-dzien-od-2022-roku-9072895.html</guid>
-      <pubDate>Fri, 23 Jan 2026 07:18:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Trump: W sprawie Grenlandii będziemy współpracować z NATO. "Na zawsze"</title>
-      <link>https://www.bankier.pl/wiadomosc/Trump-Bedziemy-w-sprawie-Grenlandii-wspolpracowac-z-NATO-Na-zawsze-9072921.html</link>
-      <description>Prezydent USA Donald Trump zapowiedział w czwartek, że Amerykanie będą współpracować z NATO w sprawie bezpieczeństwa Grenlandii. Dodał, że planowane porozumienie dotyczące wyspy nie będzie miało ram czasowych; będzie „na zawsze”.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Trump-Bedziemy-w-sprawie-Grenlandii-wspolpracowac-z-NATO-Na-zawsze-9072921.html</guid>
-      <pubDate>Fri, 23 Jan 2026 07:25:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Trump: Włochy i Polska chciałyby dołączyć do Rady Pokoju</title>
-      <link>https://www.bankier.pl/wiadomosc/Trump-Wlochy-i-Polska-chcialyby-dolaczyc-do-Rady-Pokoju-9072917.html</link>
-      <description>Prezydent USA Donald Trump przekazał w czwartek, że prezydent Karol Nawrocki powiedział mu, iż „chciałby podpisać się pod dokumentem dotyczącym Rady Pokoju, lecz - jak zaznaczył Trump - musi zwrócić się do parlamentu”. Chęć dołączenia...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Trump-Wlochy-i-Polska-chcialyby-dolaczyc-do-Rady-Pokoju-9072917.html</guid>
-      <pubDate>Fri, 23 Jan 2026 07:25:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Ofiary w Iranie liczone są już w tysiącach. Reżim przelał również krew dzieci</title>
-      <link>https://www.bankier.pl/wiadomosc/Ofiary-w-Iranie-liczone-sa-juz-w-tysiacach-Rezim-przelal-rowniez-krew-dzieci-9072989.html</link>
-      <description>Liczba potwierdzonych ofiar fali protestów w Iranie sięgnęła co najmniej 5002 osób - przekazała w piątek agencja AP, powołując się na aktywistów z organizacji pozarządowej HRANA i uprzedzając, że liczba ta wzrośnie. Internet w Iranie nie...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ofiary-w-Iranie-liczone-sa-juz-w-tysiacach-Rezim-przelal-rowniez-krew-dzieci-9072989.html</guid>
-      <pubDate>Fri, 23 Jan 2026 07:33:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kurierzy z Glovo i Wolta na etacie? Polska musi wdrożyć rewolucyjne zmiany</title>
-      <link>https://www.bankier.pl/wiadomosc/Kurierzy-z-Glovo-i-Wolta-na-etacie-Polska-musi-wdrozyc-rewolucyjne-zmiany-9072931.html</link>
-      <description>Wdrożenie unijnej dyrektywy o pracy platformowej może kosztować polską gospodarkę nawet 750 mln zł rocznie – wynika z analiz Pragmatic Policy Group. W grę wchodzą wyższe ceny dla konsumentów, spadek popytu w gastronomii oraz zmiany w modelu...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Kurierzy-z-Glovo-i-Wolta-na-etacie-Polska-musi-wdrozyc-rewolucyjne-zmiany-9072931.html</guid>
-      <pubDate>Fri, 23 Jan 2026 07:35:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Na rynkach ropy odbicie cen po wypowiedzi Trumpa</title>
-      <link>https://www.bankier.pl/wiadomosc/Na-rynkach-ropy-odbicie-cen-po-wypowiedzi-Trumpa-9072991.html</link>
-      <description>W piątek ceny ropy odbiły w górę po tym, gdy prezydent USA Donald Trump ponowił ostrzeżenia wobec Iranu, głównego producenta ropy na Bliskim Wschodzie, budząc obawy przed działaniami wojskowymi, które mogłyby zakłócić dostawy.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Na-rynkach-ropy-odbicie-cen-po-wypowiedzi-Trumpa-9072991.html</guid>
-      <pubDate>Fri, 23 Jan 2026 07:38:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jan 2026 06:00:00 +0100</lastBuildDate>
     <item>
       <title>Premierka Danii: Jesteśmy gotowi kontynuować współpracę z USA, ale bez gróźb</title>
       <link>https://www.bankier.pl/wiadomosc/Premierka-Danii-Jestesmy-gotowi-kontynuowac-wspolprace-z-USA-ale-bez-grozb-9072866.html</link>
@@ -605,13 +563,6 @@
       <pubDate>Fri, 23 Jan 2026 17:40:00 +0100</pubDate>
     </item>
     <item>
-      <title>Szef CIA w Polsce. Tajna wizyta Johna Ratcliffe’a i rozmowy w MON</title>
-      <link>https://www.bankier.pl/wiadomosc/Szef-CIA-w-Polsce-Tajna-wizyta-Johna-Ratcliffe-a-i-rozmowy-w-MON-9073408.html</link>
-      <description>Na początku tygodnia odbyło się spotkanie wicepremiera, szefa MON Władysława Kosiniaka-Kamysz z dyrektorem CIA Johnem Ratcliffem - dowiedziała się PAP w źródłach zbliżonych do resortu obrony. Niejawny pozostaje temat rozmów. Ratcliffe spotkał...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Szef-CIA-w-Polsce-Tajna-wizyta-Johna-Ratcliffe-a-i-rozmowy-w-MON-9073408.html</guid>
-      <pubDate>Fri, 23 Jan 2026 17:55:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Małgorzata Manowska idzie do TK. Koniec z podpisem Tuska pod decyzjami prezydenta?</title>
       <link>https://www.bankier.pl/wiadomosc/Malgorzata-Manowska-idzie-do-TK-Koniec-z-podpisem-Tuska-pod-decyzjami-prezydenta-9073414.html</link>
       <description>I prezes SN Małgorzata Manowska zaskarżyła do TK wymóg kontrasygnaty premiera przy decyzjach prezydenta ws. obsady stanowisk w wymiarze sprawiedliwości - np. przy wyznaczeniu sędziego kierującego Zgromadzeniem Ogólnym SN podczas wyboru kandydatów...</description>
@@ -631,13 +582,6 @@
       <description>Sejm uchwalił w piątek ustawę, która dotyczy m.in. przymusowej restrukturyzacji banków czy natychmiastowych przelewów w euro. Płatności w unijnej walucie mają być oferowane 24 godziny na dobę, 7 dni w tygodniu i nie mogą być droższe niż...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Sejm-uchwalil-ustawe-dotyczaca-m-in-przymusowej-restrukturyzacji-bankow-9073431.html</guid>
       <pubDate>Fri, 23 Jan 2026 18:11:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Największa rewolucja w sądach i aresztach od 1997 roku. Posłowie przegłosowali zmiany</title>
-      <link>https://www.bankier.pl/wiadomosc/Najwieksza-rewolucja-w-sadach-i-aresztach-od-1997-roku-Poslowie-przeglosowali-zmiany-9073432.html</link>
-      <description>Gwarancje prawa do obrony już na wczesnym etapie sprawy, zakaz korzystania z nielegalnych dowodów, ograniczenie tymczasowych aresztów oraz większa decyzyjność sądów poprzez ograniczenie decyzyjności prokuratorów - to zakładane cele uchwalonej...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Najwieksza-rewolucja-w-sadach-i-aresztach-od-1997-roku-Poslowie-przeglosowali-zmiany-9073432.html</guid>
-      <pubDate>Fri, 23 Jan 2026 18:12:00 +0100</pubDate>
     </item>
     <item>
       <title>Sędzia Tuleya kontra posłanka PiS. Anna Paluch zachowała immunitet</title>
@@ -696,11 +640,67 @@
       <pubDate>Fri, 23 Jan 2026 19:25:00 +0100</pubDate>
     </item>
     <item>
+      <title>Niemiecka energetyka w rękach USA. Miliarder od Trumpa przejął kluczową spółkę</title>
+      <link>https://www.bankier.pl/wiadomosc/Niemiecka-energetyka-w-rekach-USA-Miliarder-od-Trumpa-przejal-kluczowa-spolke-9073472.html</link>
+      <description>Ministerstwo gospodarki Niemiec zatwierdziło przejęcie niemieckiej firmy energetycznej TanQuid przez spółkę z USA kontrolowaną przez miliardera bliskiego Donaldowi Trumpowi - pisze w piątek „Der Spiegel”. Amerykańska firma weszła w Niemczech...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Niemiecka-energetyka-w-rekach-USA-Miliarder-od-Trumpa-przejal-kluczowa-spolke-9073472.html</guid>
+      <pubDate>Fri, 23 Jan 2026 19:26:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Dominika Kulczyk apeluje do biznesu. "Ciepło stało się bronią"</title>
       <link>https://www.bankier.pl/wiadomosc/Dominika-Kulczyk-apeluje-do-biznesu-Cieplo-stalo-sie-bronia-9073474.html</link>
       <description>Pełnoskalowa wojna w Ukrainie trwa już blisko cztery lata. To cztery lata heroicznego oporu, ale też cztery lata niszczenia domów i infrastruktury, gdzie zima staje się kolejną bronią agresora. Dziś pomoc wymaga jednak nie tylko odruchów serca...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Dominika-Kulczyk-apeluje-do-biznesu-Cieplo-stalo-sie-bronia-9073474.html</guid>
       <pubDate>Fri, 23 Jan 2026 19:33:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>USA popierają separatystów w kanadyjskiej Albercie. Szokujące stanowisko sekretarza skarbu</title>
+      <link>https://www.bankier.pl/wiadomosc/USA-popieraja-separatystow-w-kanadyjskiej-Albercie-Szokujace-stanowisko-sekretarza-skarbu-9073482.html</link>
+      <description>Amerykański minister finansów (skarbu) Scott Bessent poparł w piątek ruch separatystyczny w kanadyjskiej prowincji Alberta. To najwyższy rangą przedstawiciel administracji USA, który zabrał głos w sprawie separatystów w Albercie – podkreśliła...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/USA-popieraja-separatystow-w-kanadyjskiej-Albercie-Szokujace-stanowisko-sekretarza-skarbu-9073482.html</guid>
+      <pubDate>Fri, 23 Jan 2026 19:46:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Złoto po prawie 5000 USD/oz. Srebro powyżej stu dolarów za uncję</title>
+      <link>https://www.bankier.pl/wiadomosc/Zloto-po-prawie-5000-USD-oz-Srebro-powyzej-stu-dolarow-za-uncje-9073485.html</link>
+      <description>Srebro po raz pierwszy w historii były wyceniane na przeszło sto dolarów za uncję. Niektóre nieco mniej aktywne serie kontraktów terminowych na złoto przekroczyły poziom 5 000 USD/oz.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Zloto-po-prawie-5000-USD-oz-Srebro-powyzej-stu-dolarow-za-uncje-9073485.html</guid>
+      <pubDate>Fri, 23 Jan 2026 19:49:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Flota cieni na cenzurowanym. USA uderzają w ważne źródło dochodów Iranu</title>
+      <link>https://www.bankier.pl/wiadomosc/Sankcje-na-Iran-USA-uderzaja-w-flote-cieni-9073493.html</link>
+      <description>Resort finansów USA ogłosił w piątek nałożenie sankcji na dziewięć tankowców i osiem firm związanych z irańską „flotą cieni” przewożącą objętą sankcjami irańską ropę naftową. Decyzja przedstawiana jest jako element presji na...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Sankcje-na-Iran-USA-uderzaja-w-flote-cieni-9073493.html</guid>
+      <pubDate>Fri, 23 Jan 2026 20:05:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Donald Trump uderza w NATO. Brytyjski premier żąda przeprosin po skandalicznych słowach</title>
+      <link>https://www.bankier.pl/wiadomosc/Donald-Trump-uderza-w-NATO-Brytyjski-premier-zada-przeprosin-po-skandalicznych-slowach-9073464.html</link>
+      <description>Premier Wielkiej Brytanii Keir Starmer powiedział w piątek, że uwagi prezydenta USA Donalda Trumpa o żołnierzach NATO w Afganistanie były skandaliczne i obraźliwe. Zasugerował, że Trump powinien przeprosić za wypowiedź, w której lekceważył...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Donald-Trump-uderza-w-NATO-Brytyjski-premier-zada-przeprosin-po-skandalicznych-slowach-9073464.html</guid>
+      <pubDate>Fri, 23 Jan 2026 20:06:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Największa rewolucja w sądach i aresztach od 1997 roku. Posłowie przegłosowali zmiany</title>
+      <link>https://www.bankier.pl/wiadomosc/Najwieksza-rewolucja-w-sadach-i-aresztach-od-1997-roku-Poslowie-przeglosowali-zmiany-9073432.html</link>
+      <description>Gwarancje prawa do obrony już na wczesnym etapie sprawy, zakaz korzystania z nielegalnych dowodów, ograniczenie tymczasowych aresztów oraz większa decyzyjność sądów poprzez ograniczenie decyzyjności prokuratorów - to zakładane cele uchwalonej...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Najwieksza-rewolucja-w-sadach-i-aresztach-od-1997-roku-Poslowie-przeglosowali-zmiany-9073432.html</guid>
+      <pubDate>Fri, 23 Jan 2026 20:27:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Negocjacje pokojowe w Abu Zabi. USA, Rosja i Ukraina przy jednym stole</title>
+      <link>https://www.bankier.pl/wiadomosc/Negocjacje-pokojowe-w-Abu-Zabi-USA-Rosja-i-Ukraina-przy-jednym-stole-Rozmowa-byla-konstruktywna-9073487.html</link>
+      <description>W Zjednoczonych Emiratach Arabskich odbyły się już pierwsze rozmowy przedstawicieli Ukrainy, USA i Rosji w sprawie możliwego porozumienia pokojowego; na razie jeszcze za wcześnie na wnioski – powiadomił w piątek wieczorem ukraiński prezydent...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Negocjacje-pokojowe-w-Abu-Zabi-USA-Rosja-i-Ukraina-przy-jednym-stole-Rozmowa-byla-konstruktywna-9073487.html</guid>
+      <pubDate>Fri, 23 Jan 2026 20:28:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Brak mieszkania utrudnia decyzje o dziecku. Polacy chcą zmian w polityce mieszkaniowej</title>
+      <link>https://www.bankier.pl/wiadomosc/Brak-mieszkania-utrudnia-decyzje-o-dziecku-Polacy-chca-zmian-w-polityce-mieszkaniowej-9070891.html</link>
+      <description>W 2026 roku sprzedaż nowych mieszkań ma wzrosnąć o 10-15 proc., a tych na rynku wtórnym o kolejne 5-10 proc. Do ożywienia popytu przyczynią się obniżki stóp procentowych oraz rosnąca dostępność...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Brak-mieszkania-utrudnia-decyzje-o-dziecku-Polacy-chca-zmian-w-polityce-mieszkaniowej-9070891.html</guid>
+      <pubDate>Sat, 24 Jan 2026 06:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
