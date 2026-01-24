@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sat, 24 Jan 2026 15:00:00 +0100</lastBuildDate>
-    <item>
-      <title>Trump wstrzymuje egzekucje w Iranie? Jest to "całkowicie fałszywe"</title>
-      <link>https://www.bankier.pl/wiadomosc/Trump-wstrzymuje-egzekucje-w-Iranie-Jest-to-calkowicie-falszywe-9073153.html</link>
-      <description>Prokurator generalny Iranu Mohammad Mowahedi zaprzeczył w piątek doniesieniom prezydenta USA Donalda Trumpa, jakoby jego interwencja wstrzymała egzekucję 800 osób zatrzymanych podczas ogólnokrajowych protestów. Mowahedi nazwał komentarze Trumpa...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Trump-wstrzymuje-egzekucje-w-Iranie-Jest-to-calkowicie-falszywe-9073153.html</guid>
-      <pubDate>Fri, 23 Jan 2026 12:22:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Jan 2026 16:00:00 +0100</lastBuildDate>
     <item>
       <title>Czechy chcą powrotu Grupy Wyszehradzkiej. Babisz: Musimy przekonać Polskę</title>
       <link>https://www.bankier.pl/wiadomosc/Czechy-chca-powrotu-Grupy-Wyszehradzkiej-Babisz-Musimy-przekonac-Polske-9073156.html</link>
@@ -708,6 +701,13 @@
       <description>Pracodawca zgodnie z planowanymi zmianami do kodeksu pracy będzie zobowiązany do walki z mobbingiem „przez stosowanie działań prewencyjnych, wykrywanie oraz właściwe reagowanie, a także przez działania naprawcze i wsparcie osób dotkniętych...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Koniec-z-fikcja-w-walce-z-mobbingiem-Nowe-obowiazki-dla-kazdego-pracodawcy-w-Polsce-9071100.html</guid>
       <pubDate>Sat, 24 Jan 2026 15:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>„Żyletkowiec” wpisany do rejestru zabytków</title>
+      <link>https://www.bankier.pl/wiadomosc/Zyletkowiec-wpisany-do-rejestru-zabytkow-9071084.html</link>
+      <description>Decyzją mazowieckiego wojewódzkiego konserwatora zabytków Marcina Dawidowicza zespół budowlany Centralnego Biura Studiów Budownictwa Przemysłowego wraz z „żyletkowcem”, zaprojektowanym przez Marka Leykama trafił do rejestru zabytków</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Zyletkowiec-wpisany-do-rejestru-zabytkow-9071084.html</guid>
+      <pubDate>Sat, 24 Jan 2026 16:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
