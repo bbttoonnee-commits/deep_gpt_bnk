@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 26 Jan 2026 17:40:00 +0100</lastBuildDate>
-    <item>
-      <title>Euro w Polsce? Domański: Mamy coraz więcej argumentów za utrzymaniem złotego</title>
-      <link>https://www.bankier.pl/wiadomosc/Euro-w-Polsce-Domanski-Mamy-coraz-wiecej-argumentow-za-utrzymaniem-zlotego-9073781.html</link>
-      <description>Polska posiada coraz więcej argumentów za utrzymaniem swojej narodowej waluty i niewprowadzaniem euro – wskazał minister finansów i gospodarki Andrzej Domański w opublikowanym w niedzielę wywiadzie dla brytyjskiego dziennika „Financial Times”...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Euro-w-Polsce-Domanski-Mamy-coraz-wiecej-argumentow-za-utrzymaniem-zlotego-9073781.html</guid>
-      <pubDate>Sun, 25 Jan 2026 19:17:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Ukraina w UE? Zełenski podał datę, ale Nawrocki studzi zapał. "Trudno osiągalne"</title>
-      <link>https://www.bankier.pl/wiadomosc/Ukraina-w-UE-Zelenski-podal-date-ale-Nawrocki-studzi-zapal-Trudno-osiagalne-9073816.html</link>
-      <description>Prezydent Karol Nawrocki podkreślił w niedzielę w Wilnie, że warto, by głos takich formatów, jak Trójkąt Lubelski, był słyszalny na świecie. Dodał, że niezależnie od ustroju w Rosji, to jest ona wciąż zagrożeniem, zaś Polska, Litwa i...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ukraina-w-UE-Zelenski-podal-date-ale-Nawrocki-studzi-zapal-Trudno-osiagalne-9073816.html</guid>
-      <pubDate>Sun, 25 Jan 2026 19:22:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Jan 2026 18:20:00 +0100</lastBuildDate>
     <item>
       <title>Po tragedii w Minneapolis wzrosło ryzyko częściowego shutdownu w USA</title>
       <link>https://www.bankier.pl/wiadomosc/Po-tragedii-w-Minneapolis-wzroslo-ryzyko-czesciowego-shutdownu-w-USA-9073842.html</link>
@@ -703,11 +689,25 @@
       <pubDate>Mon, 26 Jan 2026 17:30:00 +0100</pubDate>
     </item>
     <item>
+      <title>Odwilż na linii Nawrocki-Sikorski? Rząd i prezydent „zmierzają do rozwiązania”</title>
+      <link>https://www.bankier.pl/wiadomosc/Odwilz-na-linii-Nawrocki-Sikorski-Rzad-i-prezydent-zmierzaja-do-rozwiazania-9074360.html</link>
+      <description>Spotkanie szefa MSZ Radosława Sikorskiego z prezydentem Karolem Nawrockim przebiegło w konstruktywnej atmosferze - podał rzecznik MSZ Maciej Wewiór. Zmierzamy w stronę znalezienia rozwiązania dla okoliczności, przed którymi stanęły obie strony;...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Odwilz-na-linii-Nawrocki-Sikorski-Rzad-i-prezydent-zmierzaja-do-rozwiazania-9074360.html</guid>
+      <pubDate>Mon, 26 Jan 2026 17:47:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Forte szacuje, że miało w III kw. 2025/26 roku 26 mln zł skonsolidowanej EBITDA</title>
+      <link>https://www.bankier.pl/wiadomosc/Forte-szacuje-ze-mialo-w-III-kw-2025-26-roku-26-mln-zl-skonsolidowanej-EBITDA-9074381.html</link>
+      <description>Grupa Fabryk Mebli Forte szacuje, że miała w III kw. roku 2025/26 (od 1 października do 31 grudnia 2025 r.) 26 mln zł skonsolidowanej EBITDA, w porównaniu do 36 mln zł rok wcześniej - podała spółka w komunikacie. Według szacunków, jej skonsolidowane...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Forte-szacuje-ze-mialo-w-III-kw-2025-26-roku-26-mln-zl-skonsolidowanej-EBITDA-9074381.html</guid>
+      <pubDate>Mon, 26 Jan 2026 18:16:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Miliardy euro popłyną do Polski. Jest zielone światło dla polskiego planu SAFE</title>
       <link>https://www.bankier.pl/wiadomosc/Miliardy-euro-poplyna-do-Polski-Jest-zielone-swiatlo-dla-polskiego-planu-SAFE-9074358.html</link>
       <description>Komisja Europejska zaakceptowała w poniedziałek polski plan narodowy, dotyczący wydatkowania pieniędzy na obronność z programu SAFE. Polska wnioskowała o dofinansowanie 139 projektów na kwotę 43,7 mld euro. KE dała zielone światło także siedmiu...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Miliardy-euro-poplyna-do-Polski-Jest-zielone-swiatlo-dla-polskiego-planu-SAFE-9074358.html</guid>
-      <pubDate>Mon, 26 Jan 2026 17:40:00 +0100</pubDate>
+      <pubDate>Mon, 26 Jan 2026 18:20:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
