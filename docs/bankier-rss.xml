@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 28 Jan 2026 23:46:00 +0100</lastBuildDate>
-    <item>
-      <title>Ceny ropy powiększają wzrosty po zaliczeniu 4-miesięcznych maksimów</title>
-      <link>https://www.bankier.pl/wiadomosc/Ceny-ropy-powiekszaja-wzrosty-po-zaliczeniu-4-miesiecznych-maksimow-9075237.html</link>
-      <description>Ceny ropy naftowej zaliczyły najwyższe poziomy od 4 miesięcy i na tym nie poprzestały - notowania surowca w środę dalej rosną. Inwestorzy monitorują kolejne groźby ze strony USA wobec Iranu - informują maklerzy.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ceny-ropy-powiekszaja-wzrosty-po-zaliczeniu-4-miesiecznych-maksimow-9075237.html</guid>
-      <pubDate>Wed, 28 Jan 2026 07:55:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Wielka legalizacja pobytu migrantów w Hiszpanii. Rząd Sancheza idzie pod prąd</title>
-      <link>https://www.bankier.pl/wiadomosc/Wielka-legalizacja-pobytu-migrantow-w-Hiszpanii-Rzad-Sancheza-idzie-pod-prad-9075158.html</link>
-      <description>Rząd Hiszpanii zatwierdził na wtorkowym posiedzeniu przepisy, które umożliwią uregulowanie statusu około pół miliona imigrantów, którzy przebywają nielegalnie w tym iberyjskim kraju.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wielka-legalizacja-pobytu-migrantow-w-Hiszpanii-Rzad-Sancheza-idzie-pod-prad-9075158.html</guid>
-      <pubDate>Wed, 28 Jan 2026 08:15:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Jan 2026 00:04:00 +0100</lastBuildDate>
     <item>
       <title>Revolut uruchomił bank w Meksyku: 100 mln dolarów kapitału i wysokie ratingi</title>
       <link>https://www.bankier.pl/wiadomosc/Revolut-uruchomil-bank-w-Meksyku-100-mln-dolarow-kapitalu-i-wysokie-ratingi-9075236.html</link>
@@ -148,6 +134,13 @@
       <description>Policja sprawdza, czy minister sprawiedliwości Waldemar Żurek złamał przepisy ruchu drogowego, nie ustępując pieszej pierwszeństwa na przejściu. Analizowane jest nagranie z podcastu, na którym minister prowadzi samochód.</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Minister-Zurek-nie-ustapil-pierwszenstwa-pieszej-Jest-komunikat-policji-9074763.html</guid>
       <pubDate>Wed, 28 Jan 2026 10:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>"Piekielna" pogoda w Australii. Prawie 50 stopni w cieniu</title>
+      <link>https://www.bankier.pl/wiadomosc/Piekielna-pogoda-w-Australii-Prawie-50-stopni-w-cieniu-9075267.html</link>
+      <description>Fala upałów w Australii przyniosła rekordowe temperatury; w stanie Wiktoria odnotowano 48,9 stopni Celsjusza – poinformował w środę australijski nadawca ABC. Meteorolodzy ostrzegają, że w głębi lądu temperatury mogą zbliżyć się do 50...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Piekielna-pogoda-w-Australii-Prawie-50-stopni-w-cieniu-9075267.html</guid>
+      <pubDate>Wed, 28 Jan 2026 10:03:00 +0100</pubDate>
     </item>
     <item>
       <title>Przyszłość przemysłu a cele klimatyczne. Branża motoryzacyjna apeluje o zdrowy rozsądek</title>
@@ -563,6 +556,13 @@
       <pubDate>Wed, 28 Jan 2026 16:55:00 +0100</pubDate>
     </item>
     <item>
+      <title>Gaz jako waluta negocjacyjna. "Zamieniliśmy uzależnienie od Rosji na gaz z USA"</title>
+      <link>https://www.bankier.pl/wiadomosc/Gaz-jako-waluta-negocjacyjna-Zamienilismy-uzaleznienie-od-Rosji-na-gaz-z-USA-9075662.html</link>
+      <description>Import gazu z USA zastępuje w Europie dostawy z Rosji jednak jego ceny są nieprzewidywalne, a Amerykanie chcą, by Bruksela przymknęła oko na ekologiczne parametry pochodzącego zza oceanu paliwa - powiedział PAP Kacper Szulecki z Norweskiego Instytutu...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Gaz-jako-waluta-negocjacyjna-Zamienilismy-uzaleznienie-od-Rosji-na-gaz-z-USA-9075662.html</guid>
+      <pubDate>Wed, 28 Jan 2026 16:57:00 +0100</pubDate>
+    </item>
+    <item>
       <title>"Brak szacunku". Burmistrzyni Kopenhagi oskarża dyplomatów USA po incydencie z flagami</title>
       <link>https://www.bankier.pl/wiadomosc/Skandal-w-Kopenhadze-Ambasada-USA-usunela-flagi-z-nazwiskami-zolnierzy-poleglych-w-Afganistanie-9075407.html</link>
       <description>Mieszkańcy Kopenhagi umieścili w środę pod ambasadą USA nowe flagi Danii na cześć duńskich żołnierzy poległych w Afganistanie, w miejsce flag zabranych wcześniej przez strażnika placówki. Ambasada zapewniła, że nie będą już uprzątane...</description>
@@ -701,6 +701,13 @@
       <description>Grupa Azoty Puławy otrzymała pozew złożony przez konsorcjum firm Polimex Mostostal, Polimex Energetyka oraz SBB Energy, obejmujący roszczenia wobec spółki związane z realizacją przez wykonawcę kontraktu na budowę bloku węglowego w Puławach...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Grupa-Azoty-Pulawy-otrzymala-pozew-od-konsorcjum-Polimeksu-9075851.html</guid>
       <pubDate>Wed, 28 Jan 2026 23:46:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Orlen żąda spłaty pożyczki przez Grupę Azoty Polyolefins</title>
+      <link>https://www.bankier.pl/wiadomosc/Orlen-zada-splaty-pozyczki-przez-Grupe-Azoty-Polyolefins-9075856.html</link>
+      <description>Orlen żąda od Grupy Azoty Polyolefins natychmiastowej spłaty pożyczki z 2025 r. przeznaczonej na sfinansowanie zakupu propanu - podała Grupa Azoty w komunikacie. Kwoty należne Orlenowi na mocy umowy wraz z odsetkami wynoszą 28,7 mln USD.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Orlen-zada-splaty-pozyczki-przez-Grupe-Azoty-Polyolefins-9075856.html</guid>
+      <pubDate>Thu, 29 Jan 2026 00:04:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
