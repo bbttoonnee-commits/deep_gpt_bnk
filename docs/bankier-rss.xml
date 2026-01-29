@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 29 Jan 2026 20:36:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 22:05:00 +0100</lastBuildDate>
     <item>
       <title>Grenlandia nie na sprzedaż, ale do współpracy. Dania przedstawia "czerwone linie"</title>
       <link>https://www.bankier.pl/wiadomosc/Grenlandia-nie-na-sprzedaz-ale-do-wspolpracy-Dania-przedstawia-czerwone-linie-9075857.html</link>
@@ -147,13 +147,6 @@
       <link>https://www.bankier.pl/wiadomosc/Zwolnienia-w-PG-Silesia-pomimo-porozumienia-z-gornikami-9075928.html</link>
       <description>Zakładowa Solidarność w PG Silesia informuje, że pracodawca wbrew wcześniejszym deklaracjom rozpoczął zwolnienia w kopalni. Górnicy alarmują, że spółka łamie ustalenia wskazane w grudniowym porozumieniu, dzięki czemu pracownicy mieli być...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Zwolnienia-w-PG-Silesia-pomimo-porozumienia-z-gornikami-9075928.html</guid>
-      <pubDate>Thu, 29 Jan 2026 09:40:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Tesla przestaje produkować dwa modele samochodów i ogłasza zwrot na robotykę i AI</title>
-      <link>https://www.bankier.pl/wiadomosc/Tesla-przestaje-produkowac-dwa-modele-samochodow-i-oglasza-zwrot-na-robotyke-i-AI-9075920.html</link>
-      <description>Tesla przestanie produkować dwa modele samochodów, wykorzystując zwolnioną przestrzeń fabryczną do budowy humanoidalnych robotów - ogłosił Elon Musk podczas konferencji wynikowej spółki, sugerując, że elektryczne pojazdy będą wkrótce jej...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Tesla-przestaje-produkowac-dwa-modele-samochodow-i-oglasza-zwrot-na-robotyke-i-AI-9075920.html</guid>
       <pubDate>Thu, 29 Jan 2026 09:40:00 +0100</pubDate>
     </item>
     <item>
@@ -570,13 +563,6 @@
       <pubDate>Thu, 29 Jan 2026 16:31:00 +0100</pubDate>
     </item>
     <item>
-      <title>Europosłowie PiS w centrum skandalu. Szokująca skarga i zarzuty o "chrumkanie"</title>
-      <link>https://www.bankier.pl/wiadomosc/Europoslowie-PiS-w-centrum-skandalu-Szokujaca-skarga-i-zarzuty-o-chrumkanie-9076329.html</link>
-      <description>Irlandzka liberałka Cynthia Ni Mhurchu złożyła w czwartek pisemną skargę do szefowej Parlamentu Europejskiego Roberty Metsoli na europosłów PiS Jacka Ozdobę i Bogdana Rzońcę. Ozdobie zarzuciła nieodpowiednie zachowanie podczas posiedzenia...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Europoslowie-PiS-w-centrum-skandalu-Szokujaca-skarga-i-zarzuty-o-chrumkanie-9076329.html</guid>
-      <pubDate>Thu, 29 Jan 2026 16:37:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Administracja Trumpa przyznaje się do błędu. "Car od granicy" ogłasza odwrót ICE</title>
       <link>https://www.bankier.pl/wiadomosc/Administracja-Trumpa-przyznaje-sie-do-bledu-Car-od-granicy-oglasza-odwrot-ICE-9076338.html</link>
       <description>„Car od granicy” Białego Domu, Tom Homan, zapowiedział w czwartek, że pracuje nad planem wycofania części służb federalnych z Minnesoty. Przyznał też, że dotychczasowe działania tych służb „nie były idealne”.</description>
@@ -708,6 +694,13 @@
       <description>Rada Dyrektorów Allegro.eu poinformowała, że dostała wiadomość o doręczeniu Allegro sp. z o.o. postanowienia Sądu Okręgowego w Warszawie w przedmiocie udzielenia zabezpieczenia na rzecz Fundacji Forum Konsumentów - poinformowała spółka w...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Allegro-otrzymalo-postanowienie-Sadu-o-udzieleniu-zabezpieczenia-na-rzecz-Fundacji-Forum-Konsumentow-9076470.html</guid>
       <pubDate>Thu, 29 Jan 2026 20:36:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Zniżkujące notowania Microsoftu podcięły nogi nowojorskim giełdom</title>
+      <link>https://www.bankier.pl/wiadomosc/Znizkujace-notowania-Microsoftu-podciely-nogi-nowojorskim-gieldom-9076496.html</link>
+      <description>Potężna przecena akcji Microsoftu odbiła się czkawką na nowojorskich parkietach. W dół poszły wyceny także innych firm informatycznych, przez co Nasdaq zaliczył trzecią najgorszą sesję w tym roku.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Znizkujace-notowania-Microsoftu-podciely-nogi-nowojorskim-gieldom-9076496.html</guid>
+      <pubDate>Thu, 29 Jan 2026 22:05:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
